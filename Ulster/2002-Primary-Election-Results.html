@@ -1,0 +1,2620 @@
+
+
+<head>
+<title>Election Results</title>
+</head>
+
+<BODY BGCOLOR="FFFFFF" TEXT="000000" LINK="000000" VLINK="000000" ALINK="000000"><SCRIPT LANGUAGE="JavaScript">
+
+
+
+<!-- Beginning of JavaScript Applet -------------------
+
+
+
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc.
+
+   All Rights Reserved.
+
+
+
+   This applet can be re-used or modified, if credit is given in
+
+   the source code.
+
+
+
+   We will not be held responsible for any unwanted effects due to the
+
+   usage of this applet or any derivative.  No warrantees for usability
+
+   for any specific application are given or implied.
+
+
+
+   Chris Skinner, January 30th, 1996.
+
+
+
+
+
+   Hacked by Jim Simmons--March 6, 1997.
+
+*/
+
+
+
+function scrollit_r2l(seed)
+
+{
+
+        var m1 = "  Official results for 2002 Primary. ";
+
+/*        var m2 = "Updates will be available about every 8 minutes.  Please remember to reload or refresh your browser to view the most current returns  "; */
+
+          var m2 = "  Thank you.... Ulster County Information Services.      "; 
+
+
+
+/*        var msg=m1+m2+m3; */
+
+        var msg=m1+m2;  
+
+        var out = " ";
+
+        var c   = 1;
+
+
+
+        if (seed > 100) {
+
+                seed--;
+
+                var cmd="scrollit_r2l(" + seed + ")";
+
+                timerTwo=window.setTimeout(cmd,100);
+
+        }
+
+        else if (seed <= 100 && seed > 0) {
+
+                for (c=0 ; c < seed ; c++) {
+
+                        out+=" ";
+
+                }
+
+                out+=msg;
+
+                seed--;
+
+                var cmd="scrollit_r2l(" + seed + ")";
+
+                    window.status=out;
+
+                timerTwo=window.setTimeout(cmd,100);
+
+        }
+
+        else if (seed <= 0) {
+
+                if (-seed < msg.length) {
+
+                        out+=msg.substring(-seed,msg.length);
+
+                        seed--;
+
+                        var cmd="scrollit_r2l(" + seed + ")";
+
+                        window.status=out;
+
+                        timerTwo=window.setTimeout(cmd,100);
+
+                }
+
+                else {
+
+                        window.status=" ";
+
+                        timerTwo=window.setTimeout("scrollit_r2l(100)",75);
+
+                }
+
+        }
+
+}
+
+// -- End of JavaScript code ---------------->
+
+
+
+</SCRIPT>
+
+
+
+<CENTER><font size=+2><b>
+<p>Ulster County </font></b>
+<br>
+<b><font size=+2><font color="#FF0000">Official</font> Primary Results for September 10, 2002 </font></CENTER></b>
+<center><p><font size=-1><a href="../electionresults.html">Return to Election Results</a></font></center>
+<!--<H3>Date: 11/06/01 Time: 10:21 AM </H3>-->
+<pre><font size=-1>
+<!-- Revision History
+Put the election results ascii file after this comment
+-->
+
+                                          
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   1
+                                                         OFFICIAL TALLY
+                                               REPUBLICAN ASSEMBLYMAN 127TH DISTRICT
+                     VOTES
+                      CAST     CHERRY     BARBER     HOOKER                                                    WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16         33          3         13         17
+ DIST  2 OF 16         28         12          9          7
+ DIST  3 OF 16         16                    10          6
+ DIST  4 OF 16         43          4         31          8
+ DIST  5 OF 16         51          9         26         16
+ DIST  6 OF 16         58         17         28         13
+ DIST  7 OF 16         29         10          6         12                                                                1
+ DIST  8 OF 16         55         24         19         12
+ DIST  9 OF 16         31         10         14          7
+ DIST 10 OF 16         46          4         28          9                                                                3       2
+ DIST 11 OF 16         57          9         18         30
+ DIST 12 OF 16         92         43         21         26                                                                        2
+ DIST 13 OF 16         44         20         12         12
+ DIST 14 OF 16         59          9         31         19
+ DIST 15 OF 16         52          3         36         13
+ DIST 16 OF 16         48          8         30          9                                                                1
+TOTAL 16 OF 16        742*       185*       332*       216*                                                               5*      4*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   2
+                                                         OFFICIAL TALLY
+                                               REPUBLICAN ASSEMBLYMAN 127TH DISTRICT
+                     VOTES
+                      CAST     CHERRY     BARBER     HOOKER                                                    WRITEIN  VOID   BLANK
+  TOWN TOTALS         742       185**      332**      216**                                                               5**    4**
+  CITY TOTALS
+  COUNTY TOTALS       742       185**      332**      216**                                                               5**    4**
+     TOTAL BY CANDIDATE        BARBER   332***  HOOKER   216***  CHERRY   185***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   3
+                                                         OFFICIAL TALLY
+                                                        DEMOCRATIC GOVERNOR
+                     VOTES
+                      CAST      CUOMO     MCCALL                                                               WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2         11          1         10
+ DIST  2 OF  2          4                     4
+TOTAL  2 OF  2         15*         1*        14*
+ESOPUS
+ DIST  1 OF  7         29          4         24                                                                                   1
+ DIST  2 OF  7         20          6         13                                                                                   1
+ DIST  3 OF  7         24          2         21                                                                                   1
+ DIST  4 OF  7         33          5         26                                                                                   2
+ DIST  5 OF  7          8          2          6
+ DIST  6 OF  7         19          3         16
+ DIST  7 OF  7         20          1         19
+TOTAL  7 OF  7        153*        23*       125*                                                                                  5*
+GARDINER
+ DIST  1 OF  4         43          4         39
+ DIST  2 OF  4         29                    27                                                                                   2
+ DIST  3 OF  4         39          3         36
+ DIST  4 OF  4          5                     5
+TOTAL  4 OF  4        116*         7*       107*                                                                                  2*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2          7          1          5                                                                                   1
+TOTAL  2 OF  2          7*         1*         5*                                                                                  1*
+HURLEY
+ DIST  1 OF  8         16          2         12                                                                                   2
+ DIST  2 OF  8         13          2         10                                                                                   1
+ DIST  3 OF  8          8          2          5                                                                                   1
+ DIST  4 OF  8         10                    10
+ DIST  5 OF  8         25          1         24
+ DIST  6 OF  8          9                     9
+ DIST  7 OF  8         23          4         19
+ DIST  8 OF  8         14          2         12
+TOTAL  8 OF  8        118*        13*       101*                                                                                  4*
+KINGSTON-T
+ DIST  1 OF  1         18          6         11                                                                                   1
+TOTAL  1 OF  1         18*         6*        11*                                                                                  1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   4
+                                                         OFFICIAL TALLY
+                                                        DEMOCRATIC GOVERNOR
+                     VOTES
+                      CAST      CUOMO     MCCALL                                                               WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7         16          2         11                                                                                   3
+ DIST  2 OF  7         17          5         12
+ DIST  3 OF  7          6          1          5
+ DIST  4 OF  7         26          4         19                                                                           1       2
+ DIST  5 OF  7         12                    11                                                                                   1
+ DIST  6 OF  7         22          1         21
+ DIST  7 OF  7         13                    12                                                                                   1
+TOTAL  7 OF  7        112*        13*        91*                                                                          1*      7*
+MARBLETOWN
+ DIST  1 OF  6         28                    27                                                                           1
+ DIST  2 OF  6         20                    18                                                                                   2
+ DIST  3 OF  6         23          1         20                                                                                   2
+ DIST  4 OF  6         26          1         24                                                                           1
+ DIST  5 OF  6         12          1         11
+ DIST  6 OF  6         15          1         14
+TOTAL  6 OF  6        124*         4*       114*                                                                          2*      4*
+MARLBOROUGH
+ DIST  1 OF  6         12          2         10
+ DIST  2 OF  6          7                     6                                                                                   1
+ DIST  3 OF  6         11          3          8
+ DIST  4 OF  6         10          2          7                                                                                   1
+ DIST  5 OF  6         14                    14
+ DIST  6 OF  6         13          1         11                                                                                   1
+TOTAL  6 OF  6         67*         8*        56*                                                                                  3*
+NEW PALTZ
+ DIST  1 OF 10         89          6         82                                                                                   1
+ DIST  2 OF 10         20          1         17                                                                           1       1
+ DIST  3 OF 10         15          2         11                                                                                   2
+ DIST  4 OF 10         40          5         35
+ DIST  5 OF 10         51          2         48                                                                                   1
+ DIST  6 OF 10         35                    35
+ DIST  7 OF 10         50          2         48
+ DIST  8 OF 10         44          1         43
+ DIST  9 OF 10         11          3          8
+ DIST 10 OF 10         19          4         14                                                                                   1
+TOTAL 10 OF 10        374*        26*       341*                                                                          1*      6*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   5
+                                                         OFFICIAL TALLY
+                                                        DEMOCRATIC GOVERNOR
+                     VOTES
+                      CAST      CUOMO     MCCALL                                                               WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5         23          1         20                                                                           1       1
+ DIST  2 OF  5         16          1         15
+ DIST  3 OF  5         19          1         17                                                                                   1
+ DIST  4 OF  5         28          4         22                                                                                   2
+ DIST  5 OF  5         32          4         26                                                                                   2
+TOTAL  5 OF  5        118*        11*       100*                                                                          1*      6*
+PLATTEKILL
+ DIST  1 OF  6         16          2         14
+ DIST  2 OF  6         34          7         20                                                                                   7
+ DIST  3 OF  6         11                    11
+ DIST  4 OF  6         13          2         11
+ DIST  5 OF  6         22          2         19                                                                                   1
+ DIST  6 OF  6         19          7         11                                                                                   1
+TOTAL  6 OF  6        115*        20*        86*                                                                                  9*
+ROCHESTER
+ DIST  1 OF  5         29                    29
+ DIST  2 OF  5         18          1         15                                                                                   2
+ DIST  3 OF  5         22          4         16                                                                    1              1
+ DIST  4 OF  5         16          2         14
+ DIST  5 OF  5         35          1         33                                                                                   1
+TOTAL  5 OF  5        120*         8*       107*                                                                   1*             4*
+ROSENDALE
+ DIST  1 OF  5         70          9         61
+ DIST  2 OF  5         30          1         29
+ DIST  3 OF  5         30          1         29
+ DIST  4 OF  5         29          2         27
+ DIST  5 OF  5         44          9         35
+TOTAL  5 OF  5        203*        22*       181*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   6
+                                                         OFFICIAL TALLY
+                                                        DEMOCRATIC GOVERNOR
+                     VOTES
+                      CAST      CUOMO     MCCALL                                                               WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16         12                    11                                                                                   1
+ DIST  2 OF 16          5          1          4
+ DIST  3 OF 16          7          1          5                                                                                   1
+ DIST  4 OF 16         15          3         12
+ DIST  5 OF 16         25          5         18                                                                                   2
+ DIST  6 OF 16         19          2         17
+ DIST  7 OF 16         10          1          9
+ DIST  8 OF 16          4                     4
+ DIST  9 OF 16         21          1         20
+ DIST 10 OF 16         25          6         15                                                                                   4
+ DIST 11 OF 16         19          4         15
+ DIST 12 OF 16         21          4         15                                                                                   2
+ DIST 13 OF 16         11                     9                                                                                   2
+ DIST 14 OF 16         17          2         15
+ DIST 15 OF 16         24          5         14                                                                                   5
+ DIST 16 OF 16         19          4         14                                                                                   1
+TOTAL 16 OF 16        254*        39*       197*                                                                                 18*
+SHANDAKEN
+ DIST  1 OF  4         35          5         28                                                                                   2
+ DIST  2 OF  4         17          2         14                                                                                   1
+ DIST  3 OF  4         28          2         24                                                                                   2
+ DIST  4 OF  4          8                     8
+TOTAL  4 OF  4         88*         9*        74*                                                                                  5*
+SHAWANGUNK
+ DIST  1 OF  6         25          1         24
+ DIST  2 OF  6          8          1          7
+ DIST  3 OF  6         28          3         19                                                                                   6
+ DIST  4 OF  6         11          2          7                                                                                   2
+ DIST  5 OF  6         23          4         19
+ DIST  6 OF  6         16          3         13
+TOTAL  6 OF  6        111*        14*        89*                                                                                  8*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   7
+                                                         OFFICIAL TALLY
+                                                        DEMOCRATIC GOVERNOR
+                     VOTES
+                      CAST      CUOMO     MCCALL                                                               WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14         11          1         10
+ DIST  2 OF 14         12          2          8                                                                           1       1
+ DIST  3 OF 14         11          3          5                                                                                   3
+ DIST  4 OF 14         12                    11                                                                                   1
+ DIST  5 OF 14          4                     4
+ DIST  6 OF 14          8                     6                                                                                   2
+ DIST  7 OF 14          9          1          7                                                                                   1
+ DIST  8 OF 14          9          2          5                                                                                   2
+ DIST  9 OF 14          9          2          7
+ DIST 10 OF 14         11                     9                                                                                   2
+ DIST 11 OF 14          8          1          7
+ DIST 12 OF 14         20          3         13                                                                                   4
+ DIST 13 OF 14         21          5         16
+ DIST 14 OF 14         14                    10                                                                                   4
+TOTAL 14 OF 14        159*        20*       118*                                                                          1*     20*
+WAWARSING
+ DIST  1 OF 12         18          2         16
+ DIST  2 OF 12         32          7         25
+ DIST  3 OF 12         43         11         32
+ DIST  4 OF 12         17          3         14
+ DIST  5 OF 12          7          1          5                                                                                   1
+ DIST  6 OF 12         15          2         13
+ DIST  7 OF 12          7          1          4                                                                                   2
+ DIST  8 OF 12         19          3         12                                                                                   4
+ DIST  9 OF 12         17          1         16
+ DIST 10 OF 12         20          2         17                                                                                   1
+ DIST 11 OF 12         18          1         17
+ DIST 12 OF 12          5                     5
+TOTAL 12 OF 12        218*        34*       176*                                                                                  8*
+WOODSTOCK
+ DIST  1 OF  9         45          4         37                                                                                   4
+ DIST  2 OF  9         16                    16
+ DIST  3 OF  9         45                    44                                                                                   1
+ DIST  4 OF  9         27          2         23                                                                                   2
+ DIST  5 OF  9         24          1         22                                                                                   1
+ DIST  6 OF  9         23          3         20
+ DIST  7 OF  9         31          6         24                                                                                   1
+ DIST  8 OF  9         23          2         20                                                                                   1
+ DIST  9 OF  9         25          1         21                                                                                   3
+TOTAL  9 OF  9        259*        19*       227*                                                                                 13*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   8
+                                                         OFFICIAL TALLY
+                                                        DEMOCRATIC GOVERNOR
+                     VOTES
+                      CAST      CUOMO     MCCALL                                                               WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1    12                    12
+ DIST  2 OF WARD  1     9                     9
+ DIST  3 OF WARD  1    19          2         15                                                                                   2
+ DIST  1 OF WARD  2    16          2         14
+ DIST  2 OF WARD  2    13          2         10                                                                                   1
+ DIST  3 OF WARD  2    31          6         25
+ DIST  1 OF WARD  3    18                    17                                                                                   1
+ DIST  2 OF WARD  3    26          3         23
+ DIST  3 OF WARD  3     9          3          5                                                                           1
+ DIST  1 OF WARD  4    21          3         18
+ DIST  2 OF WARD  4    13          1         12
+ DIST  1 OF WARD  5    22          1         19                                                                                   2
+ DIST  2 OF WARD  5    17          4         11                                                                                   2
+ DIST  3 OF WARD  5    16          1         15
+ DIST  1 OF WARD  6    23          3         18                                                                                   2
+ DIST  2 OF WARD  6    11          2          8                                                                                   1
+ DIST  3 OF WARD  6    19          1         15                                                                           1       2
+ DIST  1 OF WARD  7     7          1          5                                                                                   1
+ DIST  2 OF WARD  7    26          7         19
+ DIST  3 OF WARD  7     6          1          5
+ DIST  1 OF WARD  8    13          1         12
+ DIST  2 OF WARD  8    24          4         20
+ DIST  3 OF WARD  8    20          1         18                                                                                   1
+ DIST  1 OF WARD  9    10          2          8
+ DIST  2 OF WARD  9    24          6         18
+ DIST  3 OF WARD  9    10                     8                                                                                   2
+TOTAL 26 OF 26        435*        57*       359*                                                                          2*     17*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE   9
+                                                         OFFICIAL TALLY
+                                                        DEMOCRATIC GOVERNOR
+                     VOTES
+                      CAST      CUOMO     MCCALL                                                               WRITEIN  VOID   BLANK
+  TOWN TOTALS        2749       298**     2320**                                                                   1**    6**  124**
+  CITY TOTALS         435        57**      359**                                                                          2**   17**
+  COUNTY TOTALS      3184       355**     2679**                                                                   1**    8**  141**
+     TOTAL BY CANDIDATE        MCCALL  2679***   CUOMO   355***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  10
+                                                         OFFICIAL TALLY
+                                                   DEMOCRATIC LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     MEHIEL      KING                                                                WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2         11          2          6                                                                                   3
+ DIST  2 OF  2          4                     1                                                                                   3
+TOTAL  2 OF  2         15*         2*         7*                                                                                  6*
+ESOPUS
+ DIST  1 OF  7         29         18          3                                                                                   8
+ DIST  2 OF  7         20         10          5                                                                                   5
+ DIST  3 OF  7         24         13          2                                                                                   9
+ DIST  4 OF  7         33         21          6                                                                                   6
+ DIST  5 OF  7          8          3          2                                                                                   3
+ DIST  6 OF  7         19         14          2                                                                                   3
+ DIST  7 OF  7         20          7          7                                                                                   6
+TOTAL  7 OF  7        153*        86*        27*                                                                                 40*
+GARDINER
+ DIST  1 OF  4         43         28          7                                                                                   8
+ DIST  2 OF  4         29         17          2                                                                                  10
+ DIST  3 OF  4         39         25         10                                                                                   4
+ DIST  4 OF  4          5                     1                                                                                   4
+TOTAL  4 OF  4        116*        70*        20*                                                                                 26*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2          7          3                                                                                              4
+TOTAL  2 OF  2          7*         3*                                                                                             4*
+HURLEY
+ DIST  1 OF  8         16          4          4                                                                                   8
+ DIST  2 OF  8         13         10          2                                                                                   1
+ DIST  3 OF  8          8          2          2                                                                                   4
+ DIST  4 OF  8         10          5          4                                                                                   1
+ DIST  5 OF  8         25         12          2                                                                                  11
+ DIST  6 OF  8          9          6          1                                                                                   2
+ DIST  7 OF  8         23         13          5                                                                                   5
+ DIST  8 OF  8         14         12                                                                                              2
+TOTAL  8 OF  8        118*        64*        20*                                                                                 34*
+KINGSTON-T
+ DIST  1 OF  1         18          7                                                                                             11
+TOTAL  1 OF  1         18*         7*                                                                                            11*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  11
+                                                         OFFICIAL TALLY
+                                                   DEMOCRATIC LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     MEHIEL      KING                                                                WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7         16          6                                                                                             10
+ DIST  2 OF  7         17          6          3                                                                                   8
+ DIST  3 OF  7          6          4          2
+ DIST  4 OF  7         26         12          3                                                                           1      10
+ DIST  5 OF  7         12          6          1                                                                                   5
+ DIST  6 OF  7         22         11          1                                                                                  10
+ DIST  7 OF  7         13          6          2                                                                                   5
+TOTAL  7 OF  7        112*        51*        12*                                                                          1*     48*
+MARBLETOWN
+ DIST  1 OF  6         28         15          5                                                                           1       7
+ DIST  2 OF  6         20         14          1                                                                                   5
+ DIST  3 OF  6         23         10          5                                                                                   8
+ DIST  4 OF  6         26         24          1                                                                                   1
+ DIST  5 OF  6         12          7          1                                                                                   4
+ DIST  6 OF  6         15         10          1                                                                                   4
+TOTAL  6 OF  6        124*        80*        14*                                                                          1*     29*
+MARLBOROUGH
+ DIST  1 OF  6         12          6          1                                                                                   5
+ DIST  2 OF  6          7          1          2                                                                                   4
+ DIST  3 OF  6         11          7          2                                                                                   2
+ DIST  4 OF  6         10          7          2                                                                                   1
+ DIST  5 OF  6         14          6          3                                                                                   5
+ DIST  6 OF  6         13          6          5                                                                                   2
+TOTAL  6 OF  6         67*        33*        15*                                                                                 19*
+NEW PALTZ
+ DIST  1 OF 10         89         54          9                                                                                  26
+ DIST  2 OF 10         20          9          2                                                                                   9
+ DIST  3 OF 10         15          9          1                                                                                   5
+ DIST  4 OF 10         40         30          4                                                                                   6
+ DIST  5 OF 10         51         37          3                                                                                  11
+ DIST  6 OF 10         35         27          2                                                                                   6
+ DIST  7 OF 10         50         37          5                                                                                   8
+ DIST  8 OF 10         44         30          6                                                                                   8
+ DIST  9 OF 10         11          5          4                                                                                   2
+ DIST 10 OF 10         19         13          2                                                                                   4
+TOTAL 10 OF 10        374*       251*        38*                                                                                 85*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  12
+                                                         OFFICIAL TALLY
+                                                   DEMOCRATIC LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     MEHIEL      KING                                                                WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5         23         11          7                                                                           1       4
+ DIST  2 OF  5         16         13          3
+ DIST  3 OF  5         19         13          1                                                                                   5
+ DIST  4 OF  5         28         17          5                                                                                   6
+ DIST  5 OF  5         32         20          5                                                                                   7
+TOTAL  5 OF  5        118*        74*        21*                                                                          1*     22*
+PLATTEKILL
+ DIST  1 OF  6         16          7          5                                                                                   4
+ DIST  2 OF  6         34         19          2                                                                                  13
+ DIST  3 OF  6         11          5          1                                                                                   5
+ DIST  4 OF  6         13          7          1                                                                                   5
+ DIST  5 OF  6         22         14          4                                                                                   4
+ DIST  6 OF  6         19         14                                                                                              5
+TOTAL  6 OF  6        115*        66*        13*                                                                                 36*
+ROCHESTER
+ DIST  1 OF  5         29         19          3                                                                                   7
+ DIST  2 OF  5         18          7          3                                                                                   8
+ DIST  3 OF  5         22         13          3                                                                                   6
+ DIST  4 OF  5         16          5          5                                                                                   6
+ DIST  5 OF  5         35         16         11                                                                                   8
+TOTAL  5 OF  5        120*        60*        25*                                                                                 35*
+ROSENDALE
+ DIST  1 OF  5         70         40         10                                                                                  20
+ DIST  2 OF  5         30         24          3                                                                                   3
+ DIST  3 OF  5         30         26          2                                                                                   2
+ DIST  4 OF  5         29         19          5                                                                                   5
+ DIST  5 OF  5         44         18          3                                                                                  23
+TOTAL  5 OF  5        203*       127*        23*                                                                                 53*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  13
+                                                         OFFICIAL TALLY
+                                                   DEMOCRATIC LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     MEHIEL      KING                                                                WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16         12          5          1                                                                                   6
+ DIST  2 OF 16          5          4                                                                                              1
+ DIST  3 OF 16          7          5          1                                                                                   1
+ DIST  4 OF 16         15          6          3                                                                                   6
+ DIST  5 OF 16         25         11          6                                                                                   8
+ DIST  6 OF 16         19          9          5                                                                                   5
+ DIST  7 OF 16         10          4          3                                                                                   3
+ DIST  8 OF 16          4          1                                                                                              3
+ DIST  9 OF 16         21         10          4                                                                                   7
+ DIST 10 OF 16         25         17          3                                                                                   5
+ DIST 11 OF 16         19         11          4                                                                                   4
+ DIST 12 OF 16         21         11          6                                                                                   4
+ DIST 13 OF 16         11          6                                                                                              5
+ DIST 14 OF 16         17          9          1                                                                                   7
+ DIST 15 OF 16         24          8          3                                                                                  13
+ DIST 16 OF 16         19         10          3                                                                                   6
+TOTAL 16 OF 16        254*       127*        43*                                                                                 84*
+SHANDAKEN
+ DIST  1 OF  4         35         13         10                                                                                  12
+ DIST  2 OF  4         17         10          4                                                                                   3
+ DIST  3 OF  4         28         15          5                                                                                   8
+ DIST  4 OF  4          8          5          2                                                                                   1
+TOTAL  4 OF  4         88*        43*        21*                                                                                 24*
+SHAWANGUNK
+ DIST  1 OF  6         25         12          6                                                                                   7
+ DIST  2 OF  6          8          3          1                                                                                   4
+ DIST  3 OF  6         28         12          5                                                                                  11
+ DIST  4 OF  6         11          7          1                                                                                   3
+ DIST  5 OF  6         23          8          8                                                                                   7
+ DIST  6 OF  6         16          8          2                                                                                   6
+TOTAL  6 OF  6        111*        50*        23*                                                                                 38*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  14
+                                                         OFFICIAL TALLY
+                                                   DEMOCRATIC LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     MEHIEL      KING                                                                WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14         11          4          2                                                                                   5
+ DIST  2 OF 14         12          6          2                                                                           1       3
+ DIST  3 OF 14         11          6          2                                                                                   3
+ DIST  4 OF 14         12          6          3                                                                                   3
+ DIST  5 OF 14          4          2          2
+ DIST  6 OF 14          8          5          1                                                                                   2
+ DIST  7 OF 14          9          5          1                                                                                   3
+ DIST  8 OF 14          9          5          2                                                                                   2
+ DIST  9 OF 14          9          4          3                                                                                   2
+ DIST 10 OF 14         11          7                                                                                              4
+ DIST 11 OF 14          8          8
+ DIST 12 OF 14         20          6          4                                                                                  10
+ DIST 13 OF 14         21         14          1                                                                                   6
+ DIST 14 OF 14         14         10          1                                                                                   3
+TOTAL 14 OF 14        159*        88*        24*                                                                          1*     46*
+WAWARSING
+ DIST  1 OF 12         18          8          4                                                                                   6
+ DIST  2 OF 12         32         19          4                                                                                   9
+ DIST  3 OF 12         43         15         10                                                                                  18
+ DIST  4 OF 12         17          9          2                                                                                   6
+ DIST  5 OF 12          7          3          2                                                                                   2
+ DIST  6 OF 12         15          8                                                                                              7
+ DIST  7 OF 12          7          5          1                                                                                   1
+ DIST  8 OF 12         19          8          3                                                                                   8
+ DIST  9 OF 12         17         11          2                                                                                   4
+ DIST 10 OF 12         20         10          2                                                                                   8
+ DIST 11 OF 12         18          8          2                                                                                   8
+ DIST 12 OF 12          5          4                                                                                              1
+TOTAL 12 OF 12        218*       108*        32*                                                                                 78*
+WOODSTOCK
+ DIST  1 OF  9         45         19          4                                                                                  22
+ DIST  2 OF  9         16          8          3                                                                                   5
+ DIST  3 OF  9         45         27          1                                                                                  17
+ DIST  4 OF  9         27         14          3                                                                                  10
+ DIST  5 OF  9         24          7          7                                                                                  10
+ DIST  6 OF  9         23         10          6                                                                                   7
+ DIST  7 OF  9         31         18          5                                                                                   8
+ DIST  8 OF  9         23         14          2                                                                                   7
+ DIST  9 OF  9         25         16          3                                                                                   6
+TOTAL  9 OF  9        259*       133*        34*                                                                                 92*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  15
+                                                         OFFICIAL TALLY
+                                                   DEMOCRATIC LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     MEHIEL      KING                                                                WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1    12          8          1                                                                                   3
+ DIST  2 OF WARD  1     9          6                                                                                              3
+ DIST  3 OF WARD  1    19          8          6                                                                                   5
+ DIST  1 OF WARD  2    16          6          4                                                                                   6
+ DIST  2 OF WARD  2    13          6          3                                                                                   4
+ DIST  3 OF WARD  2    31         20          1                                                                                  10
+ DIST  1 OF WARD  3    18         11          2                                                                                   5
+ DIST  2 OF WARD  3    26         14          6                                                                                   6
+ DIST  3 OF WARD  3     9          7                                                                                              2
+ DIST  1 OF WARD  4    21         10          5                                                                                   6
+ DIST  2 OF WARD  4    13          7          2                                                                                   4
+ DIST  1 OF WARD  5    22          8          5                                                                                   9
+ DIST  2 OF WARD  5    17          9          2                                                                                   6
+ DIST  3 OF WARD  5    16          8                                                                                              8
+ DIST  1 OF WARD  6    23         14          2                                                                                   7
+ DIST  2 OF WARD  6    11          7          1                                                                                   3
+ DIST  3 OF WARD  6    19         11          2                                                                           1       5
+ DIST  1 OF WARD  7     7          4          1                                                                                   2
+ DIST  2 OF WARD  7    26         13          7                                                                                   6
+ DIST  3 OF WARD  7     6          3          1                                                                                   2
+ DIST  1 OF WARD  8    13          8          2                                                                                   3
+ DIST  2 OF WARD  8    24         10          4                                                                                  10
+ DIST  3 OF WARD  8    20         15                                                                                              5
+ DIST  1 OF WARD  9    10          2          3                                                                                   5
+ DIST  2 OF WARD  9    24         18          2                                                                                   4
+ DIST  3 OF WARD  9    10          5          1                                                                                   4
+TOTAL 26 OF 26        435*       238*        63*                                                                          1*    133*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  16
+                                                         OFFICIAL TALLY
+                                                   DEMOCRATIC LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     MEHIEL      KING                                                                WRITEIN  VOID   BLANK
+  TOWN TOTALS        2749      1523**      412**                                                                          4**  810**
+  CITY TOTALS         435       238**       63**                                                                          1**  133**
+  COUNTY TOTALS      3184      1761**      475**                                                                          5**  943**
+     TOTAL BY CANDIDATE        MEHIEL  1761***    KING   475***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  17
+                                                         OFFICIAL TALLY
+                                                       DEMOCRATIC COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2         11          4          5                                                                                   2
+ DIST  2 OF  2          4          2          2
+TOTAL  2 OF  2         15*         6*         7*                                                                                  2*
+ESOPUS
+ DIST  1 OF  7         29         20          5                                                                                   4
+ DIST  2 OF  7         20         10          7                                                                                   3
+ DIST  3 OF  7         24         12          5                                                                                   7
+ DIST  4 OF  7         33         22          5                                                                                   6
+ DIST  5 OF  7          8          4          2                                                                                   2
+ DIST  6 OF  7         19         15          2                                                                                   2
+ DIST  7 OF  7         20          9          8                                                                                   3
+TOTAL  7 OF  7        153*        92*        34*                                                                                 27*
+GARDINER
+ DIST  1 OF  4         43         27         10                                                                                   6
+ DIST  2 OF  4         29         17          9                                                                                   3
+ DIST  3 OF  4         39         28          7                                                                                   4
+ DIST  4 OF  4          5          2          1                                                                                   2
+TOTAL  4 OF  4        116*        74*        27*                                                                                 15*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2          7          3          3                                                                                   1
+TOTAL  2 OF  2          7*         3*         3*                                                                                  1*
+HURLEY
+ DIST  1 OF  8         16          7          5                                                                                   4
+ DIST  2 OF  8         13          5          5                                                                                   3
+ DIST  3 OF  8          8          4          1                                                                                   3
+ DIST  4 OF  8         10          7          3
+ DIST  5 OF  8         25         17          6                                                                                   2
+ DIST  6 OF  8          9          7          1                                                                                   1
+ DIST  7 OF  8         23         15          3                                                                                   5
+ DIST  8 OF  8         14          8          5                                                                                   1
+TOTAL  8 OF  8        118*        70*        29*                                                                                 19*
+KINGSTON-T
+ DIST  1 OF  1         18         13          1                                                                                   4
+TOTAL  1 OF  1         18*        13*         1*                                                                                  4*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  18
+                                                         OFFICIAL TALLY
+                                                       DEMOCRATIC COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7         16          9          1                                                                                   6
+ DIST  2 OF  7         17          6          6                                                                                   5
+ DIST  3 OF  7          6          5          1
+ DIST  4 OF  7         26         10          8                                                                           1       7
+ DIST  5 OF  7         12          6          4                                                                                   2
+ DIST  6 OF  7         22         10          6                                                                                   6
+ DIST  7 OF  7         13          8          1                                                                                   4
+TOTAL  7 OF  7        112*        54*        27*                                                                          1*     30*
+MARBLETOWN
+ DIST  1 OF  6         28         22          5                                                                                   1
+ DIST  2 OF  6         20         13          4                                                                                   3
+ DIST  3 OF  6         23         10          8                                                                                   5
+ DIST  4 OF  6         26         15          7                                                                                   4
+ DIST  5 OF  6         12          5          5                                                                                   2
+ DIST  6 OF  6         15          9          2                                                                                   4
+TOTAL  6 OF  6        124*        74*        31*                                                                                 19*
+MARLBOROUGH
+ DIST  1 OF  6         12          7          4                                                                                   1
+ DIST  2 OF  6          7          4                                                                                              3
+ DIST  3 OF  6         11          8          2                                                                                   1
+ DIST  4 OF  6         10          6          4
+ DIST  5 OF  6         14          6          3                                                                                   5
+ DIST  6 OF  6         13          7          6
+TOTAL  6 OF  6         67*        38*        19*                                                                                 10*
+NEW PALTZ
+ DIST  1 OF 10         89         67          8                                                                                  14
+ DIST  2 OF 10         20         14          3                                                                                   3
+ DIST  3 OF 10         15          7          6                                                                                   2
+ DIST  4 OF 10         40         30          4                                                                                   6
+ DIST  5 OF 10         51         28          9                                                                                  14
+ DIST  6 OF 10         35         18         10                                                                                   7
+ DIST  7 OF 10         50         33         10                                                                                   7
+ DIST  8 OF 10         44         29         11                                                                                   4
+ DIST  9 OF 10         11          4          6                                                                                   1
+ DIST 10 OF 10         19         12          4                                                                                   3
+TOTAL 10 OF 10        374*       242*        71*                                                                                 61*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  19
+                                                         OFFICIAL TALLY
+                                                       DEMOCRATIC COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5         23         14          5                                                                           1       3
+ DIST  2 OF  5         16         13          2                                                                                   1
+ DIST  3 OF  5         19         13          4                                                                                   2
+ DIST  4 OF  5         28         22          3                                                                                   3
+ DIST  5 OF  5         32         21          6                                                                                   5
+TOTAL  5 OF  5        118*        83*        20*                                                                          1*     14*
+PLATTEKILL
+ DIST  1 OF  6         16         10          3                                                                                   3
+ DIST  2 OF  6         34         19          5                                                                                  10
+ DIST  3 OF  6         11          8          1                                                                                   2
+ DIST  4 OF  6         13          4          5                                                                                   4
+ DIST  5 OF  6         22         13          6                                                                                   3
+ DIST  6 OF  6         19          9          7                                                                                   3
+TOTAL  6 OF  6        115*        63*        27*                                                                                 25*
+ROCHESTER
+ DIST  1 OF  5         29         15          8                                                                                   6
+ DIST  2 OF  5         18         12          4                                                                                   2
+ DIST  3 OF  5         22         11          7                                                                                   4
+ DIST  4 OF  5         16          8          5                                                                                   3
+ DIST  5 OF  5         35         18          9                                                                                   8
+TOTAL  5 OF  5        120*        64*        33*                                                                                 23*
+ROSENDALE
+ DIST  1 OF  5         70         42         15                                                                                  13
+ DIST  2 OF  5         30         18          9                                                                                   3
+ DIST  3 OF  5         30         20          4                                                                                   6
+ DIST  4 OF  5         29         20          4                                                                                   5
+ DIST  5 OF  5         44         21          5                                                                                  18
+TOTAL  5 OF  5        203*       121*        37*                                                                                 45*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  20
+                                                         OFFICIAL TALLY
+                                                       DEMOCRATIC COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16         12          7          4                                                                                   1
+ DIST  2 OF 16          5          4          1
+ DIST  3 OF 16          7          6          1
+ DIST  4 OF 16         15         10          3                                                                                   2
+ DIST  5 OF 16         25         18          3                                                                                   4
+ DIST  6 OF 16         19         10          6                                                                                   3
+ DIST  7 OF 16         10          4          4                                                                                   2
+ DIST  8 OF 16          4          2                                                                                              2
+ DIST  9 OF 16         21         16          5
+ DIST 10 OF 16         25         18          7
+ DIST 11 OF 16         19         14          4                                                                                   1
+ DIST 12 OF 16         21         15          3                                                                                   3
+ DIST 13 OF 16         11          6          2                                                                                   3
+ DIST 14 OF 16         17          9          7                                                                                   1
+ DIST 15 OF 16         24         12          4                                                                                   8
+ DIST 16 OF 16         19         11          5                                                                                   3
+TOTAL 16 OF 16        254*       162*        59*                                                                                 33*
+SHANDAKEN
+ DIST  1 OF  4         35         24          7                                                                                   4
+ DIST  2 OF  4         17         11          5                                                                                   1
+ DIST  3 OF  4         28         21          4                                                                                   3
+ DIST  4 OF  4          8          4          2                                                                                   2
+TOTAL  4 OF  4         88*        60*        18*                                                                                 10*
+SHAWANGUNK
+ DIST  1 OF  6         25         13          8                                                                                   4
+ DIST  2 OF  6          8          4          3                                                                                   1
+ DIST  3 OF  6         28         12          3                                                                                  13
+ DIST  4 OF  6         11          6          2                                                                                   3
+ DIST  5 OF  6         23         19          2                                                                                   2
+ DIST  6 OF  6         16          9          4                                                                                   3
+TOTAL  6 OF  6        111*        63*        22*                                                                                 26*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  21
+                                                         OFFICIAL TALLY
+                                                       DEMOCRATIC COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14         11          4          5                                                                                   2
+ DIST  2 OF 14         12          2          5                                                                           1       4
+ DIST  3 OF 14         11          7          3                                                                                   1
+ DIST  4 OF 14         12          9                                                                                              3
+ DIST  5 OF 14          4          3                                                                                              1
+ DIST  6 OF 14          8          3          4                                                                                   1
+ DIST  7 OF 14          9          5          4
+ DIST  8 OF 14          9          7          1                                                                                   1
+ DIST  9 OF 14          9          4          4                                                                                   1
+ DIST 10 OF 14         11          8          2                                                                                   1
+ DIST 11 OF 14          8          3          5
+ DIST 12 OF 14         20          9          4                                                                                   7
+ DIST 13 OF 14         21         10          6                                                                                   5
+ DIST 14 OF 14         14          8          2                                                                                   4
+TOTAL 14 OF 14        159*        82*        45*                                                                          1*     31*
+WAWARSING
+ DIST  1 OF 12         18          8          1                                                                                   9
+ DIST  2 OF 12         32         19         10                                                                                   3
+ DIST  3 OF 12         43         19          8                                                                                  16
+ DIST  4 OF 12         17          7          7                                                                                   3
+ DIST  5 OF 12          7          4          2                                                                                   1
+ DIST  6 OF 12         15          8          4                                                                                   3
+ DIST  7 OF 12          7          4          1                                                                                   2
+ DIST  8 OF 12         19         12          5                                                                                   2
+ DIST  9 OF 12         17         11          6
+ DIST 10 OF 12         20          8          5                                                                                   7
+ DIST 11 OF 12         18         15          1                                                                                   2
+ DIST 12 OF 12          5          4          1
+TOTAL 12 OF 12        218*       119*        51*                                                                                 48*
+WOODSTOCK
+ DIST  1 OF  9         45         26          6                                                                                  13
+ DIST  2 OF  9         16         11          2                                                                                   3
+ DIST  3 OF  9         45         35          3                                                                                   7
+ DIST  4 OF  9         27         16          7                                                                                   4
+ DIST  5 OF  9         24         13          5                                                                                   6
+ DIST  6 OF  9         23         13          3                                                                                   7
+ DIST  7 OF  9         31         22          6                                                                                   3
+ DIST  8 OF  9         23         19          3                                                                                   1
+ DIST  9 OF  9         25         17          6                                                                                   2
+TOTAL  9 OF  9        259*       172*        41*                                                                                 46*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  22
+                                                         OFFICIAL TALLY
+                                                       DEMOCRATIC COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1    12         10                                                                                              2
+ DIST  2 OF WARD  1     9          5          1                                                                                   3
+ DIST  3 OF WARD  1    19         12          4                                                                                   3
+ DIST  1 OF WARD  2    16          7          6                                                                                   3
+ DIST  2 OF WARD  2    13          8          2                                                                                   3
+ DIST  3 OF WARD  2    31         19          5                                                                                   7
+ DIST  1 OF WARD  3    18         14          3                                                                                   1
+ DIST  2 OF WARD  3    26         17          7                                                                                   2
+ DIST  3 OF WARD  3     9          5          2                                                                                   2
+ DIST  1 OF WARD  4    21         10          8                                                                                   3
+ DIST  2 OF WARD  4    13          4          6                                                                                   3
+ DIST  1 OF WARD  5    22          9          7                                                                                   6
+ DIST  2 OF WARD  5    17          5          8                                                                                   4
+ DIST  3 OF WARD  5    16          8          4                                                                                   4
+ DIST  1 OF WARD  6    23         13          8                                                                                   2
+ DIST  2 OF WARD  6    11          5          3                                                                                   3
+ DIST  3 OF WARD  6    19         12          5                                                                                   2
+ DIST  1 OF WARD  7     7          3          3                                                                                   1
+ DIST  2 OF WARD  7    26         13         10                                                                                   3
+ DIST  3 OF WARD  7     6          3          1                                                                                   2
+ DIST  1 OF WARD  8    13          7          3                                                                                   3
+ DIST  2 OF WARD  8    24         12          2                                                                                  10
+ DIST  3 OF WARD  8    20          7          5                                                                                   8
+ DIST  1 OF WARD  9    10          5          4                                                                                   1
+ DIST  2 OF WARD  9    24         20          2                                                                                   2
+ DIST  3 OF WARD  9    10          4          2                                                                                   4
+TOTAL 26 OF 26        435*       237*       111*                                                                                 87*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  23
+                                                         OFFICIAL TALLY
+                                                       DEMOCRATIC COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+  TOWN TOTALS        2749      1655**      602**                                                                          3**  489**
+  CITY TOTALS         435       237**      111**                                                                                87**
+  COUNTY TOTALS      3184      1892**      713**                                                                          3**  576**
+     TOTAL BY CANDIDATE        HEVESI  1892***  MULROW   713***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  24
+                                                         OFFICIAL TALLY
+                                                       INDEPENDENCE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     GOLISAN                                                              WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2
+ DIST  2 OF  2          2          1          1
+TOTAL  2 OF  2          2*         1*         1*
+ESOPUS
+ DIST  1 OF  7          3                     3
+ DIST  2 OF  7          1                     1
+ DIST  3 OF  7
+ DIST  4 OF  7          1          1
+ DIST  5 OF  7
+ DIST  6 OF  7          2                     2
+ DIST  7 OF  7          2                     1                                                                                   1
+TOTAL  7 OF  7          9*         1*         7*                                                                                  1*
+GARDINER
+ DIST  1 OF  4          1          1
+ DIST  2 OF  4          1                     1
+ DIST  3 OF  4          2          1          1
+ DIST  4 OF  4
+TOTAL  4 OF  4          4*         2*         2*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+HURLEY
+ DIST  1 OF  8          2          1                                                                                              1
+ DIST  2 OF  8          1                     1
+ DIST  3 OF  8          2          1                                                                                              1
+ DIST  4 OF  8          1                     1
+ DIST  5 OF  8
+ DIST  6 OF  8
+ DIST  7 OF  8
+ DIST  8 OF  8          1                     1
+TOTAL  8 OF  8          7*         2*         3*                                                                                  2*
+KINGSTON-T
+ DIST  1 OF  1
+TOTAL  1 OF  1
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  25
+                                                         OFFICIAL TALLY
+                                                       INDEPENDENCE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     GOLISAN                                                              WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7
+ DIST  2 OF  7          1                     1
+ DIST  3 OF  7          1          1
+ DIST  4 OF  7          6          6
+ DIST  5 OF  7          2                     2
+ DIST  6 OF  7          3          1          2
+ DIST  7 OF  7          2                     2
+TOTAL  7 OF  7         15*         8*         7*
+MARBLETOWN
+ DIST  1 OF  6          1                                                                                                         1
+ DIST  2 OF  6
+ DIST  3 OF  6          1                     1
+ DIST  4 OF  6          1                     1
+ DIST  5 OF  6          3                     3
+ DIST  6 OF  6          1                     1
+TOTAL  6 OF  6          7*                    6*                                                                                  1*
+MARLBOROUGH
+ DIST  1 OF  6          4          1          2                                                                           1
+ DIST  2 OF  6          1                     1
+ DIST  3 OF  6          2          1          1
+ DIST  4 OF  6          2          2
+ DIST  5 OF  6          3                     3
+ DIST  6 OF  6
+TOTAL  6 OF  6         12*         4*         7*                                                                          1*
+NEW PALTZ
+ DIST  1 OF 10          3          1          1                                                                                   1
+ DIST  2 OF 10          2          1          1
+ DIST  3 OF 10          1                     1
+ DIST  4 OF 10          1                     1
+ DIST  5 OF 10          1          1
+ DIST  6 OF 10          1          1
+ DIST  7 OF 10
+ DIST  8 OF 10          1                     1
+ DIST  9 OF 10
+ DIST 10 OF 10
+TOTAL 10 OF 10         10*         4*         5*                                                                                  1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  26
+                                                         OFFICIAL TALLY
+                                                       INDEPENDENCE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     GOLISAN                                                              WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5          3                     3
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5          1                     1
+ DIST  5 OF  5          3                     3
+TOTAL  5 OF  5          7*                    7*
+PLATTEKILL
+ DIST  1 OF  6          5          2          3
+ DIST  2 OF  6          5          2          3
+ DIST  3 OF  6
+ DIST  4 OF  6          4          4
+ DIST  5 OF  6          5          2          3
+ DIST  6 OF  6          2                     2
+TOTAL  6 OF  6         21*        10*        11*
+ROCHESTER
+ DIST  1 OF  5          3          2          1
+ DIST  2 OF  5          2          1          1
+ DIST  3 OF  5          4                     3                                                                                   1
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5          9*         3*         5*                                                                                  1*
+ROSENDALE
+ DIST  1 OF  5         22          6         14                                                                                   2
+ DIST  2 OF  5          6          1          3                                                                                   2
+ DIST  3 OF  5          1                     1
+ DIST  4 OF  5          5          2          2                                                                                   1
+ DIST  5 OF  5          9          4          2                                                                                   3
+TOTAL  5 OF  5         43*        13*        22*                                                                                  8*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  27
+                                                         OFFICIAL TALLY
+                                                       INDEPENDENCE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     GOLISAN                                                              WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16
+ DIST  2 OF 16
+ DIST  3 OF 16          1                     1
+ DIST  4 OF 16
+ DIST  5 OF 16          2          2
+ DIST  6 OF 16          1          1
+ DIST  7 OF 16          4          1          3
+ DIST  8 OF 16          2                     2
+ DIST  9 OF 16          2          1          1
+ DIST 10 OF 16
+ DIST 11 OF 16          1                     1
+ DIST 12 OF 16          2                     2
+ DIST 13 OF 16
+ DIST 14 OF 16          2          2
+ DIST 15 OF 16          1          1
+ DIST 16 OF 16
+TOTAL 16 OF 16         18*         8*        10*
+SHANDAKEN
+ DIST  1 OF  4          8                     6                                                                                   2
+ DIST  2 OF  4          3          2          1
+ DIST  3 OF  4          3          2          1
+ DIST  4 OF  4
+TOTAL  4 OF  4         14*         4*         8*                                                                                  2*
+SHAWANGUNK
+ DIST  1 OF  6          2                     2
+ DIST  2 OF  6
+ DIST  3 OF  6          4          3          1
+ DIST  4 OF  6          2          1          1
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          8*         4*         4*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  28
+                                                         OFFICIAL TALLY
+                                                       INDEPENDENCE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     GOLISAN                                                              WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14
+ DIST  2 OF 14
+ DIST  3 OF 14
+ DIST  4 OF 14
+ DIST  5 OF 14
+ DIST  6 OF 14          1          1
+ DIST  7 OF 14
+ DIST  8 OF 14          1                     1
+ DIST  9 OF 14          1                     1
+ DIST 10 OF 14          1          1
+ DIST 11 OF 14          1          1
+ DIST 12 OF 14          4          1          3
+ DIST 13 OF 14          1          1
+ DIST 14 OF 14
+TOTAL 14 OF 14         10*         5*         5*
+WAWARSING
+ DIST  1 OF 12          1                     1
+ DIST  2 OF 12          1          1
+ DIST  3 OF 12          1                     1
+ DIST  4 OF 12          1                     1
+ DIST  5 OF 12
+ DIST  6 OF 12          1                     1
+ DIST  7 OF 12
+ DIST  8 OF 12          3          3
+ DIST  9 OF 12          1          1
+ DIST 10 OF 12
+ DIST 11 OF 12
+ DIST 12 OF 12
+TOTAL 12 OF 12          9*         5*         4*
+WOODSTOCK
+ DIST  1 OF  9          1                     1
+ DIST  2 OF  9          2                     2
+ DIST  3 OF  9          1          1
+ DIST  4 OF  9          2                     2
+ DIST  5 OF  9
+ DIST  6 OF  9          2                     2
+ DIST  7 OF  9          1                                                                                                         1
+ DIST  8 OF  9
+ DIST  9 OF  9          3          2          1
+TOTAL  9 OF  9         12*         3*         8*                                                                                  1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  29
+                                                         OFFICIAL TALLY
+                                                       INDEPENDENCE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     GOLISAN                                                              WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1
+ DIST  2 OF WARD  1
+ DIST  3 OF WARD  1
+ DIST  1 OF WARD  2     5          3          2
+ DIST  2 OF WARD  2     1          1
+ DIST  3 OF WARD  2     1          1
+ DIST  1 OF WARD  3     1          1
+ DIST  2 OF WARD  3     1                     1
+ DIST  3 OF WARD  3
+ DIST  1 OF WARD  4     3                     2                                                                                   1
+ DIST  2 OF WARD  4
+ DIST  1 OF WARD  5
+ DIST  2 OF WARD  5     1          1
+ DIST  3 OF WARD  5     1                     1
+ DIST  1 OF WARD  6     1          1
+ DIST  2 OF WARD  6
+ DIST  3 OF WARD  6
+ DIST  1 OF WARD  7
+ DIST  2 OF WARD  7     2                     1                                                                                   1
+ DIST  3 OF WARD  7     1                     1
+ DIST  1 OF WARD  8     1                     1
+ DIST  2 OF WARD  8
+ DIST  3 OF WARD  8     2          1          1
+ DIST  1 OF WARD  9     2          2
+ DIST  2 OF WARD  9     3                     1                                                                                   2
+ DIST  3 OF WARD  9
+TOTAL 26 OF 26         26*        11*        11*                                                                                  4*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  30
+                                                         OFFICIAL TALLY
+                                                       INDEPENDENCE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     GOLISAN                                                              WRITEIN  VOID   BLANK
+  TOWN TOTALS         217        77**      122**                                                                          1**   17**
+  CITY TOTALS          26        11**       11**                                                                                 4**
+  COUNTY TOTALS       243        88**      133**                                                                          1**   21**
+     TOTAL BY CANDIDATE       GOLISAN   133***  PATAKI    88***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  31
+                                                         OFFICIAL TALLY
+                                                  INDEPENDENCE LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     DONOHUE    NEILD                                                                WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2
+ DIST  2 OF  2          2          1          1
+TOTAL  2 OF  2          2*         1*         1*
+ESOPUS
+ DIST  1 OF  7          3                     2                                                                                   1
+ DIST  2 OF  7          1                                                                                                         1
+ DIST  3 OF  7
+ DIST  4 OF  7          1                                                                                                         1
+ DIST  5 OF  7
+ DIST  6 OF  7          2                     1                                                                                   1
+ DIST  7 OF  7          2          1                                                                                              1
+TOTAL  7 OF  7          9*         1*         3*                                                                                  5*
+GARDINER
+ DIST  1 OF  4          1          1
+ DIST  2 OF  4          1                                                                                                         1
+ DIST  3 OF  4          2                     1                                                                                   1
+ DIST  4 OF  4
+TOTAL  4 OF  4          4*         1*         1*                                                                                  2*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+HURLEY
+ DIST  1 OF  8          2          1          1
+ DIST  2 OF  8          1                     1
+ DIST  3 OF  8          2          1                                                                                              1
+ DIST  4 OF  8          1                                                                                                         1
+ DIST  5 OF  8
+ DIST  6 OF  8
+ DIST  7 OF  8
+ DIST  8 OF  8          1          1
+TOTAL  8 OF  8          7*         3*         2*                                                                                  2*
+KINGSTON-T
+ DIST  1 OF  1
+TOTAL  1 OF  1
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  32
+                                                         OFFICIAL TALLY
+                                                  INDEPENDENCE LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     DONOHUE    NEILD                                                                WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7
+ DIST  2 OF  7          1                     1
+ DIST  3 OF  7          1          1
+ DIST  4 OF  7          6          5          1
+ DIST  5 OF  7          2                     1                                                                                   1
+ DIST  6 OF  7          3                                                                                                         3
+ DIST  7 OF  7          2                     1                                                                                   1
+TOTAL  7 OF  7         15*         6*         4*                                                                                  5*
+MARBLETOWN
+ DIST  1 OF  6          1          1
+ DIST  2 OF  6
+ DIST  3 OF  6          1                     1
+ DIST  4 OF  6          1                     1
+ DIST  5 OF  6          3          1          2
+ DIST  6 OF  6          1          1
+TOTAL  6 OF  6          7*         3*         4*
+MARLBOROUGH
+ DIST  1 OF  6          4          1                                                                                              3
+ DIST  2 OF  6          1                                                                                                         1
+ DIST  3 OF  6          2          1          1
+ DIST  4 OF  6          2          2
+ DIST  5 OF  6          3                     1                                                                                   2
+ DIST  6 OF  6
+TOTAL  6 OF  6         12*         4*         2*                                                                                  6*
+NEW PALTZ
+ DIST  1 OF 10          3          2                                                                                              1
+ DIST  2 OF 10          2                     1                                                                                   1
+ DIST  3 OF 10          1                                                                                                         1
+ DIST  4 OF 10          1                     1
+ DIST  5 OF 10          1                                                                                                         1
+ DIST  6 OF 10          1          1
+ DIST  7 OF 10
+ DIST  8 OF 10          1                                                                                                         1
+ DIST  9 OF 10
+ DIST 10 OF 10
+TOTAL 10 OF 10         10*         3*         2*                                                                                  5*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  33
+                                                         OFFICIAL TALLY
+                                                  INDEPENDENCE LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     DONOHUE    NEILD                                                                WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5          3                     2                                                                                   1
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5          1                     1
+ DIST  5 OF  5          3          1          2
+TOTAL  5 OF  5          7*         1*         5*                                                                                  1*
+PLATTEKILL
+ DIST  1 OF  6          5          2          3
+ DIST  2 OF  6          5          2          3
+ DIST  3 OF  6
+ DIST  4 OF  6          4          2                                                                                              2
+ DIST  5 OF  6          5          2          1                                                                                   2
+ DIST  6 OF  6          2          1          1
+TOTAL  6 OF  6         21*         9*         8*                                                                                  4*
+ROCHESTER
+ DIST  1 OF  5          3          2                                                                                              1
+ DIST  2 OF  5          2          1          1
+ DIST  3 OF  5          4          1                                                                                              3
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5          9*         4*         1*                                                                                  4*
+ROSENDALE
+ DIST  1 OF  5         22          9          4                                                                                   9
+ DIST  2 OF  5          6          3                                                                                              3
+ DIST  3 OF  5          1                                                                                                         1
+ DIST  4 OF  5          5          2          1                                                                                   2
+ DIST  5 OF  5          9          3          1                                                                                   5
+TOTAL  5 OF  5         43*        17*         6*                                                                                 20*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  34
+                                                         OFFICIAL TALLY
+                                                  INDEPENDENCE LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     DONOHUE    NEILD                                                                WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16
+ DIST  2 OF 16
+ DIST  3 OF 16          1                                                                                                         1
+ DIST  4 OF 16
+ DIST  5 OF 16          2          2
+ DIST  6 OF 16          1                     1
+ DIST  7 OF 16          4          1          3
+ DIST  8 OF 16          2          1          1
+ DIST  9 OF 16          2                                                                                                         2
+ DIST 10 OF 16
+ DIST 11 OF 16          1                                                                                                         1
+ DIST 12 OF 16          2                                                                                                         2
+ DIST 13 OF 16
+ DIST 14 OF 16          2          1                                                                                              1
+ DIST 15 OF 16          1          1
+ DIST 16 OF 16
+TOTAL 16 OF 16         18*         6*         5*                                                                                  7*
+SHANDAKEN
+ DIST  1 OF  4          8                     4                                                                                   4
+ DIST  2 OF  4          3          3
+ DIST  3 OF  4          3          1                                                                                              2
+ DIST  4 OF  4
+TOTAL  4 OF  4         14*         4*         4*                                                                                  6*
+SHAWANGUNK
+ DIST  1 OF  6          2          1                                                                                              1
+ DIST  2 OF  6
+ DIST  3 OF  6          4          2          1                                                                                   1
+ DIST  4 OF  6          2          1          1
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          8*         4*         2*                                                                                  2*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  35
+                                                         OFFICIAL TALLY
+                                                  INDEPENDENCE LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     DONOHUE    NEILD                                                                WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14
+ DIST  2 OF 14
+ DIST  3 OF 14
+ DIST  4 OF 14
+ DIST  5 OF 14
+ DIST  6 OF 14          1          1
+ DIST  7 OF 14
+ DIST  8 OF 14          1          1
+ DIST  9 OF 14          1                     1
+ DIST 10 OF 14          1          1
+ DIST 11 OF 14          1          1
+ DIST 12 OF 14          4          1                                                                                              3
+ DIST 13 OF 14          1                                                                                                         1
+ DIST 14 OF 14
+TOTAL 14 OF 14         10*         5*         1*                                                                                  4*
+WAWARSING
+ DIST  1 OF 12          1                                                                                                         1
+ DIST  2 OF 12          1          1
+ DIST  3 OF 12          1                     1
+ DIST  4 OF 12          1                     1
+ DIST  5 OF 12
+ DIST  6 OF 12          1                     1
+ DIST  7 OF 12
+ DIST  8 OF 12          3          3
+ DIST  9 OF 12          1                                                                                                         1
+ DIST 10 OF 12
+ DIST 11 OF 12
+ DIST 12 OF 12
+TOTAL 12 OF 12          9*         4*         3*                                                                                  2*
+WOODSTOCK
+ DIST  1 OF  9          1                                                                                                         1
+ DIST  2 OF  9          2                     1                                                                                   1
+ DIST  3 OF  9          1          1
+ DIST  4 OF  9          2          1          1
+ DIST  5 OF  9
+ DIST  6 OF  9          2          1          1
+ DIST  7 OF  9          1                     1
+ DIST  8 OF  9
+ DIST  9 OF  9          3          1          1                                                                                   1
+TOTAL  9 OF  9         12*         4*         5*                                                                                  3*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  36
+                                                         OFFICIAL TALLY
+                                                  INDEPENDENCE LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     DONOHUE    NEILD                                                                WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1
+ DIST  2 OF WARD  1
+ DIST  3 OF WARD  1
+ DIST  1 OF WARD  2     5          3          1                                                                                   1
+ DIST  2 OF WARD  2     1          1
+ DIST  3 OF WARD  2     1          1
+ DIST  1 OF WARD  3     1          1
+ DIST  2 OF WARD  3     1                     1
+ DIST  3 OF WARD  3
+ DIST  1 OF WARD  4     3                                                                                                         3
+ DIST  2 OF WARD  4
+ DIST  1 OF WARD  5
+ DIST  2 OF WARD  5     1                                                                                                         1
+ DIST  3 OF WARD  5     1                     1
+ DIST  1 OF WARD  6     1          1
+ DIST  2 OF WARD  6
+ DIST  3 OF WARD  6
+ DIST  1 OF WARD  7
+ DIST  2 OF WARD  7     2          1          1
+ DIST  3 OF WARD  7     1                     1
+ DIST  1 OF WARD  8     1                     1
+ DIST  2 OF WARD  8
+ DIST  3 OF WARD  8     2          1          1
+ DIST  1 OF WARD  9     2          2
+ DIST  2 OF WARD  9     3          1                                                                                              2
+ DIST  3 OF WARD  9
+TOTAL 26 OF 26         26*        12*         7*                                                                                  7*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  37
+                                                         OFFICIAL TALLY
+                                                  INDEPENDENCE LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     DONOHUE    NEILD                                                                WRITEIN  VOID   BLANK
+  TOWN TOTALS         217        80**       59**                                                                                78**
+  CITY TOTALS          26        12**        7**                                                                                 7**
+  COUNTY TOTALS       243        92**       66**                                                                                85**
+     TOTAL BY CANDIDATE       DONOHUE    92***   NEILD    66***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  38
+                                                         OFFICIAL TALLY
+                                                       CONSERVATIVE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     OPT/BAL                                                              WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+ESOPUS
+ DIST  1 OF  7          1          1
+ DIST  2 OF  7          4          4
+ DIST  3 OF  7          3          1                                                                                              2
+ DIST  4 OF  7          2          2
+ DIST  5 OF  7          8          7                                                                                              1
+ DIST  6 OF  7
+ DIST  7 OF  7          4          4
+TOTAL  7 OF  7         22*        19*                                                                                             3*
+GARDINER
+ DIST  1 OF  4          7          7
+ DIST  2 OF  4          4          4
+ DIST  3 OF  4          2          2
+ DIST  4 OF  4          7          7
+TOTAL  4 OF  4         20*        20*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+HURLEY
+ DIST  1 OF  8          5          5
+ DIST  2 OF  8          2          1          1
+ DIST  3 OF  8          1                     1
+ DIST  4 OF  8          2          2
+ DIST  5 OF  8          2          2
+ DIST  6 OF  8          3          1          2
+ DIST  7 OF  8          1          1
+ DIST  8 OF  8
+TOTAL  8 OF  8         16*        12*         4*
+KINGSTON-T
+ DIST  1 OF  1          7          5          2
+TOTAL  1 OF  1          7*         5*         2*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  39
+                                                         OFFICIAL TALLY
+                                                       CONSERVATIVE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     OPT/BAL                                                              WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7
+ DIST  2 OF  7          4          3          1
+ DIST  3 OF  7          4          2          2
+ DIST  4 OF  7          2          2
+ DIST  5 OF  7          1                     1
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7         11*         7*         4*
+MARBLETOWN
+ DIST  1 OF  6          1          1
+ DIST  2 OF  6
+ DIST  3 OF  6          1          1
+ DIST  4 OF  6          2          2
+ DIST  5 OF  6          3          3
+ DIST  6 OF  6
+TOTAL  6 OF  6          7*         7*
+MARLBOROUGH
+ DIST  1 OF  6          6          5                                                                                              1
+ DIST  2 OF  6          7          7
+ DIST  3 OF  6          6          5          1
+ DIST  4 OF  6          8          7                                                                                      1
+ DIST  5 OF  6          3          1          2
+ DIST  6 OF  6          3          1          1                                                                                   1
+TOTAL  6 OF  6         33*        26*         4*                                                                          1*      2*
+NEW PALTZ
+ DIST  1 OF 10          2          2
+ DIST  2 OF 10          2          2
+ DIST  3 OF 10          1          1
+ DIST  4 OF 10
+ DIST  5 OF 10
+ DIST  6 OF 10          1          1
+ DIST  7 OF 10
+ DIST  8 OF 10
+ DIST  9 OF 10
+ DIST 10 OF 10          2          2
+TOTAL 10 OF 10          8*         8*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  40
+                                                         OFFICIAL TALLY
+                                                       CONSERVATIVE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     OPT/BAL                                                              WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5          6          3          2                                                                                   1
+ DIST  2 OF  5          4          2          1                                                                           1
+ DIST  3 OF  5          1                     1
+ DIST  4 OF  5          3          2                                                                                      1
+ DIST  5 OF  5          3          3
+TOTAL  5 OF  5         17*        10*         4*                                                                          2*      1*
+PLATTEKILL
+ DIST  1 OF  6          1          1
+ DIST  2 OF  6          4          4
+ DIST  3 OF  6          3          2                                                                                              1
+ DIST  4 OF  6          2          2
+ DIST  5 OF  6          1          1
+ DIST  6 OF  6          4          3          1
+TOTAL  6 OF  6         15*        13*         1*                                                                                  1*
+ROCHESTER
+ DIST  1 OF  5          4          3          1
+ DIST  2 OF  5          2          2
+ DIST  3 OF  5          5          2                                                                                      3
+ DIST  4 OF  5          2                                                                                                 2
+ DIST  5 OF  5
+TOTAL  5 OF  5         13*         7*         1*                                                                          5*
+ROSENDALE
+ DIST  1 OF  5          1          1
+ DIST  2 OF  5         10          9          1
+ DIST  3 OF  5          2          2
+ DIST  4 OF  5          4          4
+ DIST  5 OF  5          6          6
+TOTAL  5 OF  5         23*        22*         1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  41
+                                                         OFFICIAL TALLY
+                                                       CONSERVATIVE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     OPT/BAL                                                              WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16          1          1
+ DIST  2 OF 16          2          2
+ DIST  3 OF 16          1          1
+ DIST  4 OF 16          2          2
+ DIST  5 OF 16          1                                                                                                 1
+ DIST  6 OF 16          3          3
+ DIST  7 OF 16          3          3
+ DIST  8 OF 16         10         10
+ DIST  9 OF 16          5          4                                                                                              1
+ DIST 10 OF 16          8          7          1
+ DIST 11 OF 16          4          3                                                                                      1
+ DIST 12 OF 16          6          5                                                                                      1
+ DIST 13 OF 16          7          5                                                                                      2
+ DIST 14 OF 16          5          5
+ DIST 15 OF 16          1          1
+ DIST 16 OF 16          9          9
+TOTAL 16 OF 16         68*        61*         1*                                                                          5*      1*
+SHANDAKEN
+ DIST  1 OF  4          5          2          1                                                                           1       1
+ DIST  2 OF  4          1          1
+ DIST  3 OF  4          2          2
+ DIST  4 OF  4          2          1          1
+TOTAL  4 OF  4         10*         6*         2*                                                                          1*      1*
+SHAWANGUNK
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6          1          1
+ DIST  4 OF  6          3          1          1                                                                                   1
+ DIST  5 OF  6          1          1
+ DIST  6 OF  6          2          2
+TOTAL  6 OF  6          7*         5*         1*                                                                                  1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  42
+                                                         OFFICIAL TALLY
+                                                       CONSERVATIVE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     OPT/BAL                                                              WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14          9          8          1
+ DIST  2 OF 14          5          5
+ DIST  3 OF 14
+ DIST  4 OF 14          3          3
+ DIST  5 OF 14
+ DIST  6 OF 14          2          2
+ DIST  7 OF 14          1          1
+ DIST  8 OF 14          1          1
+ DIST  9 OF 14          7          6                                                                                              1
+ DIST 10 OF 14          5          5
+ DIST 11 OF 14
+ DIST 12 OF 14          2          2
+ DIST 13 OF 14          1          1
+ DIST 14 OF 14          3          3
+TOTAL 14 OF 14         39*        37*         1*                                                                                  1*
+WAWARSING
+ DIST  1 OF 12          2          2
+ DIST  2 OF 12          1          1
+ DIST  3 OF 12          3          2          1
+ DIST  4 OF 12          2          2
+ DIST  5 OF 12          1          1
+ DIST  6 OF 12          1          1
+ DIST  7 OF 12          1                     1
+ DIST  8 OF 12
+ DIST  9 OF 12
+ DIST 10 OF 12          3          2                                                                                      1
+ DIST 11 OF 12          1          1
+ DIST 12 OF 12
+TOTAL 12 OF 12         15*        12*         2*                                                                          1*
+WOODSTOCK
+ DIST  1 OF  9
+ DIST  2 OF  9          1          1
+ DIST  3 OF  9          3          2                                                                                              1
+ DIST  4 OF  9          1          1
+ DIST  5 OF  9
+ DIST  6 OF  9          1          1
+ DIST  7 OF  9
+ DIST  8 OF  9
+ DIST  9 OF  9          1          1
+TOTAL  9 OF  9          7*         6*                                                                                             1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  43
+                                                         OFFICIAL TALLY
+                                                       CONSERVATIVE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     OPT/BAL                                                              WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1
+ DIST  2 OF WARD  1
+ DIST  3 OF WARD  1     6          6
+ DIST  1 OF WARD  2     2                                                                                                 2
+ DIST  2 OF WARD  2
+ DIST  3 OF WARD  2     5          5
+ DIST  1 OF WARD  3
+ DIST  2 OF WARD  3     3          3
+ DIST  3 OF WARD  3     3          3
+ DIST  1 OF WARD  4     2          2
+ DIST  2 OF WARD  4     1          1
+ DIST  1 OF WARD  5     1                     1
+ DIST  2 OF WARD  5
+ DIST  3 OF WARD  5
+ DIST  1 OF WARD  6     2          1                                                                                              1
+ DIST  2 OF WARD  6     3          3
+ DIST  3 OF WARD  6
+ DIST  1 OF WARD  7     4          3                                                                                              1
+ DIST  2 OF WARD  7     1          1
+ DIST  3 OF WARD  7     4          4
+ DIST  1 OF WARD  8
+ DIST  2 OF WARD  8
+ DIST  3 OF WARD  8
+ DIST  1 OF WARD  9     1          1
+ DIST  2 OF WARD  9
+ DIST  3 OF WARD  9     3          2          1
+TOTAL 26 OF 26         41*        35*         2*                                                                          2*      2*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  44
+                                                         OFFICIAL TALLY
+                                                       CONSERVATIVE GOVERNOR
+                     VOTES
+                      CAST     PATAKI     OPT/BAL                                                              WRITEIN  VOID   BLANK
+  TOWN TOTALS         338       283**       28**                                                                         15**   12**
+  CITY TOTALS          41        35**        2**                                                                          2**    2**
+  COUNTY TOTALS       379       318**       30**                                                                         17**   14**
+     TOTAL BY CANDIDATE        PATAKI   318*** OPT/BAL    30***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  45
+                                                         OFFICIAL TALLY
+                                                     RIGHT TO LIFE COMPTROLLER
+                     VOTES
+                      CAST     BERRY      CHRISTE                                                              WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+ESOPUS
+ DIST  1 OF  7
+ DIST  2 OF  7          1                     1
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7          1*                    1*
+GARDINER
+ DIST  1 OF  4
+ DIST  2 OF  4
+ DIST  3 OF  4
+ DIST  4 OF  4          1                     1
+TOTAL  4 OF  4          1*                    1*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+HURLEY
+ DIST  1 OF  8
+ DIST  2 OF  8
+ DIST  3 OF  8
+ DIST  4 OF  8
+ DIST  5 OF  8
+ DIST  6 OF  8
+ DIST  7 OF  8
+ DIST  8 OF  8
+TOTAL  8 OF  8
+KINGSTON-T
+ DIST  1 OF  1
+TOTAL  1 OF  1
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  46
+                                                         OFFICIAL TALLY
+                                                     RIGHT TO LIFE COMPTROLLER
+                     VOTES
+                      CAST     BERRY      CHRISTE                                                              WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7
+ DIST  2 OF  7
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7
+MARBLETOWN
+ DIST  1 OF  6          1          1
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          1*         1*
+MARLBOROUGH
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6          1                     1
+ DIST  6 OF  6
+TOTAL  6 OF  6          1*                    1*
+NEW PALTZ
+ DIST  1 OF 10
+ DIST  2 OF 10
+ DIST  3 OF 10
+ DIST  4 OF 10
+ DIST  5 OF 10
+ DIST  6 OF 10
+ DIST  7 OF 10
+ DIST  8 OF 10
+ DIST  9 OF 10
+ DIST 10 OF 10
+TOTAL 10 OF 10
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  47
+                                                         OFFICIAL TALLY
+                                                     RIGHT TO LIFE COMPTROLLER
+                     VOTES
+                      CAST     BERRY      CHRISTE                                                              WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5
+PLATTEKILL
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6          1          1
+ DIST  4 OF  6          1          1
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          2*         2*
+ROCHESTER
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5
+ROSENDALE
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5          2          1          1
+TOTAL  5 OF  5          2*         1*         1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  48
+                                                         OFFICIAL TALLY
+                                                     RIGHT TO LIFE COMPTROLLER
+                     VOTES
+                      CAST     BERRY      CHRISTE                                                              WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16
+ DIST  2 OF 16
+ DIST  3 OF 16
+ DIST  4 OF 16
+ DIST  5 OF 16
+ DIST  6 OF 16
+ DIST  7 OF 16
+ DIST  8 OF 16
+ DIST  9 OF 16
+ DIST 10 OF 16
+ DIST 11 OF 16          1                     1
+ DIST 12 OF 16
+ DIST 13 OF 16          1          1
+ DIST 14 OF 16
+ DIST 15 OF 16
+ DIST 16 OF 16
+TOTAL 16 OF 16          2*         1*         1*
+SHANDAKEN
+ DIST  1 OF  4
+ DIST  2 OF  4
+ DIST  3 OF  4
+ DIST  4 OF  4
+TOTAL  4 OF  4
+SHAWANGUNK
+ DIST  1 OF  6          2                     2
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          2*                    2*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  49
+                                                         OFFICIAL TALLY
+                                                     RIGHT TO LIFE COMPTROLLER
+                     VOTES
+                      CAST     BERRY      CHRISTE                                                              WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14
+ DIST  2 OF 14
+ DIST  3 OF 14
+ DIST  4 OF 14
+ DIST  5 OF 14
+ DIST  6 OF 14          1                     1
+ DIST  7 OF 14
+ DIST  8 OF 14
+ DIST  9 OF 14
+ DIST 10 OF 14          1                     1
+ DIST 11 OF 14
+ DIST 12 OF 14          1                     1
+ DIST 13 OF 14
+ DIST 14 OF 14
+TOTAL 14 OF 14          3*                    3*
+WAWARSING
+ DIST  1 OF 12
+ DIST  2 OF 12
+ DIST  3 OF 12
+ DIST  4 OF 12
+ DIST  5 OF 12
+ DIST  6 OF 12
+ DIST  7 OF 12
+ DIST  8 OF 12
+ DIST  9 OF 12
+ DIST 10 OF 12
+ DIST 11 OF 12
+ DIST 12 OF 12
+TOTAL 12 OF 12
+WOODSTOCK
+ DIST  1 OF  9
+ DIST  2 OF  9
+ DIST  3 OF  9
+ DIST  4 OF  9
+ DIST  5 OF  9
+ DIST  6 OF  9
+ DIST  7 OF  9
+ DIST  8 OF  9
+ DIST  9 OF  9
+TOTAL  9 OF  9
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  50
+                                                         OFFICIAL TALLY
+                                                     RIGHT TO LIFE COMPTROLLER
+                     VOTES
+                      CAST     BERRY      CHRISTE                                                              WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1
+ DIST  2 OF WARD  1
+ DIST  3 OF WARD  1
+ DIST  1 OF WARD  2
+ DIST  2 OF WARD  2     1          1
+ DIST  3 OF WARD  2     1                     1
+ DIST  1 OF WARD  3
+ DIST  2 OF WARD  3
+ DIST  3 OF WARD  3
+ DIST  1 OF WARD  4
+ DIST  2 OF WARD  4
+ DIST  1 OF WARD  5
+ DIST  2 OF WARD  5
+ DIST  3 OF WARD  5
+ DIST  1 OF WARD  6
+ DIST  2 OF WARD  6
+ DIST  3 OF WARD  6
+ DIST  1 OF WARD  7
+ DIST  2 OF WARD  7
+ DIST  3 OF WARD  7
+ DIST  1 OF WARD  8
+ DIST  2 OF WARD  8
+ DIST  3 OF WARD  8
+ DIST  1 OF WARD  9     1                     1
+ DIST  2 OF WARD  9
+ DIST  3 OF WARD  9
+TOTAL 26 OF 26          3*         1*         2*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  51
+                                                         OFFICIAL TALLY
+                                                     RIGHT TO LIFE COMPTROLLER
+                     VOTES
+                      CAST     BERRY      CHRISTE                                                              WRITEIN  VOID   BLANK
+  TOWN TOTALS          15         5**       10**
+  CITY TOTALS           3         1**        2**
+  COUNTY TOTALS        18         6**       12**
+     TOTAL BY CANDIDATE       CHRISTE    12***   BERRY     6***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  52
+                                                         OFFICIAL TALLY
+                                               GREEN STATE COMMITTEE (VOTE FOR ANY 3)
+                     VOTES
+                      CAST      WEST      SCHIFF     MONTELL     VIAN      MENZIES     ROTH                    WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2          3                     1                                1          1
+ DIST  2 OF  2
+TOTAL  2 OF  2          3*                    1*                               1*         1*
+ESOPUS
+ DIST  1 OF  7
+ DIST  2 OF  7
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7
+GARDINER
+ DIST  1 OF  4          9          2                                3          1          3
+ DIST  2 OF  4
+ DIST  3 OF  4          9          2          1          2          1          1                                                  2
+ DIST  4 OF  4
+TOTAL  4 OF  4         18*         4*         1*         2*         4*         2*         3*                                      2*
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+HURLEY
+ DIST  1 OF  8
+ DIST  2 OF  8
+ DIST  3 OF  8
+ DIST  4 OF  8
+ DIST  5 OF  8
+ DIST  6 OF  8
+ DIST  7 OF  8
+ DIST  8 OF  8
+TOTAL  8 OF  8
+KINGSTON-T
+ DIST  1 OF  1
+TOTAL  1 OF  1
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  53
+                                                         OFFICIAL TALLY
+                                               GREEN STATE COMMITTEE (VOTE FOR ANY 3)
+                     VOTES
+                      CAST      WEST      SCHIFF     MONTELL     VIAN      MENZIES     ROTH                    WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7          3          1                                1                     1
+ DIST  2 OF  7          6          1                     1                     1          1                                       2
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7          3          1          1                                           1
+ DIST  6 OF  7
+ DIST  7 OF  7          6          2          2          1                                1
+TOTAL  7 OF  7         18*         5*         3*         2*         1*         1*         4*                                      2*
+MARBLETOWN
+ DIST  1 OF  6         18          6          3          3          3                     3
+ DIST  2 OF  6          3          1                                1                     1
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6          3          1                                1                     1
+TOTAL  6 OF  6         24*         8*         3*         3*         5*                    5*
+MARLBOROUGH
+ DIST  1 OF  6          3          1                     1                                1
+ DIST  2 OF  6
+ DIST  3 OF  6          3          1                                1                     1
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6          3          1                                1                     1
+TOTAL  6 OF  6          9*         3*                    1*         2*                    3*
+NEW PALTZ
+ DIST  1 OF 10         33         11          2          2          8                    10
+ DIST  2 OF 10
+ DIST  3 OF 10
+ DIST  4 OF 10         21          7                                7                     7
+ DIST  5 OF 10          9          3                                2                     2                                       2
+ DIST  6 OF 10         15          3          1          1          3                     4                                       3
+ DIST  7 OF 10          6          2                                2                     2
+ DIST  8 OF 10         12          4                                4                     4
+ DIST  9 OF 10          9          3                                3                     3
+ DIST 10 OF 10          6          2          1                                1          2
+TOTAL 10 OF 10        111*        35*         4*         3*        29*         1*        34*                                      5*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  54
+                                                         OFFICIAL TALLY
+                                               GREEN STATE COMMITTEE (VOTE FOR ANY 3)
+                     VOTES
+                      CAST      WEST      SCHIFF     MONTELL     VIAN      MENZIES     ROTH                    WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5          6                     2          2                     2
+ DIST  5 OF  5
+TOTAL  5 OF  5          6*                    2*         2*                    2*
+PLATTEKILL
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6          3          1                                1                     1
+TOTAL  6 OF  6          3*         1*                               1*                    1*
+ROCHESTER
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5          6          2                                2                     2
+ DIST  5 OF  5
+TOTAL  5 OF  5          6*         2*                               2*                    2*
+ROSENDALE
+ DIST  1 OF  5         33          3          2          5          3          5          1                                      14
+ DIST  2 OF  5          9          2                                2          2                                                  3
+ DIST  3 OF  5          9          2          1                     2                     1                                       3
+ DIST  4 OF  5          9          2                     1          1                     1                        1              3
+ DIST  5 OF  5          9                                                                                                         9
+TOTAL  5 OF  5         69*         9*         3*         6*         8*         7*         3*                       1*            32*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  55
+                                                         OFFICIAL TALLY
+                                               GREEN STATE COMMITTEE (VOTE FOR ANY 3)
+                     VOTES
+                      CAST      WEST      SCHIFF     MONTELL     VIAN      MENZIES     ROTH                    WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16
+ DIST  2 OF 16          6          1                                2          1          2
+ DIST  3 OF 16
+ DIST  4 OF 16          3                                                      1                                                  2
+ DIST  5 OF 16
+ DIST  6 OF 16          6                     2                     2                     2
+ DIST  7 OF 16
+ DIST  8 OF 16
+ DIST  9 OF 16          6          1          1                     1          1          2
+ DIST 10 OF 16          3                                                                 1                                       2
+ DIST 11 OF 16          3          1                                1                     1
+ DIST 12 OF 16
+ DIST 13 OF 16
+ DIST 14 OF 16
+ DIST 15 OF 16          3          1                                1                     1
+ DIST 16 OF 16
+TOTAL 16 OF 16         30*         4*         3*                    7*         3*         9*                                      4*
+SHANDAKEN
+ DIST  1 OF  4
+ DIST  2 OF  4
+ DIST  3 OF  4
+ DIST  4 OF  4          3          1          1                                1
+TOTAL  4 OF  4          3*         1*         1*                               1*
+SHAWANGUNK
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  56
+                                                         OFFICIAL TALLY
+                                               GREEN STATE COMMITTEE (VOTE FOR ANY 3)
+                     VOTES
+                      CAST      WEST      SCHIFF     MONTELL     VIAN      MENZIES     ROTH                    WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14          3          1                                1                     1
+ DIST  2 OF 14
+ DIST  3 OF 14
+ DIST  4 OF 14
+ DIST  5 OF 14
+ DIST  6 OF 14
+ DIST  7 OF 14
+ DIST  8 OF 14
+ DIST  9 OF 14
+ DIST 10 OF 14
+ DIST 11 OF 14
+ DIST 12 OF 14
+ DIST 13 OF 14
+ DIST 14 OF 14          3                     1                                1          1
+TOTAL 14 OF 14          6*         1*         1*                    1*         1*         2*
+WAWARSING
+ DIST  1 OF 12
+ DIST  2 OF 12
+ DIST  3 OF 12          3          1                                1                     1
+ DIST  4 OF 12          6          2                                2                     2
+ DIST  5 OF 12
+ DIST  6 OF 12
+ DIST  7 OF 12
+ DIST  8 OF 12
+ DIST  9 OF 12
+ DIST 10 OF 12
+ DIST 11 OF 12
+ DIST 12 OF 12
+TOTAL 12 OF 12          9*         3*                               3*                    3*
+WOODSTOCK
+ DIST  1 OF  9          3          1                     1                                1
+ DIST  2 OF  9          6                     1                     1          2                                                  2
+ DIST  3 OF  9          3          1          1          1
+ DIST  4 OF  9          9                     3          2                     3          1
+ DIST  5 OF  9          3                     1          1                     1
+ DIST  6 OF  9          3                                1          1          1
+ DIST  7 OF  9
+ DIST  8 OF  9          3                     1          1                     1
+ DIST  9 OF  9          3                     1                     1          1
+TOTAL  9 OF  9         33*         2*         8*         7*         3*         9*         2*                                      2*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  57
+                                                         OFFICIAL TALLY
+                                               GREEN STATE COMMITTEE (VOTE FOR ANY 3)
+                     VOTES
+                      CAST      WEST      SCHIFF     MONTELL     VIAN      MENZIES     ROTH                    WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1
+ DIST  2 OF WARD  1     3          1                                1                     1
+ DIST  3 OF WARD  1
+ DIST  1 OF WARD  2
+ DIST  2 OF WARD  2
+ DIST  3 OF WARD  2
+ DIST  1 OF WARD  3
+ DIST  2 OF WARD  3     3          1                                1                     1
+ DIST  3 OF WARD  3
+ DIST  1 OF WARD  4    15          4                     1          4          1          2                                       3
+ DIST  2 OF WARD  4
+ DIST  1 OF WARD  5
+ DIST  2 OF WARD  5
+ DIST  3 OF WARD  5
+ DIST  1 OF WARD  6
+ DIST  2 OF WARD  6     3          1                                1                     1
+ DIST  3 OF WARD  6     3          1                     1          1
+ DIST  1 OF WARD  7
+ DIST  2 OF WARD  7
+ DIST  3 OF WARD  7
+ DIST  1 OF WARD  8
+ DIST  2 OF WARD  8
+ DIST  3 OF WARD  8
+ DIST  1 OF WARD  9
+ DIST  2 OF WARD  9
+ DIST  3 OF WARD  9     3                     1          1                     1
+TOTAL 26 OF 26         30*         8*         1*         3*         8*         2*         5*                                      3*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  58
+                                                         OFFICIAL TALLY
+                                               GREEN STATE COMMITTEE (VOTE FOR ANY 3)
+                     VOTES
+                      CAST      WEST      SCHIFF     MONTELL     VIAN      MENZIES     ROTH                    WRITEIN  VOID   BLANK
+  TOWN TOTALS         348        78**       30**       26**       66**       28**       72**                       1**          47**
+  CITY TOTALS          30         8**        1**        3**        8**        2**        5**                                     3**
+  COUNTY TOTALS       378        86**       31**       29**       74**       30**       77**                       1**          50**
+     TOTAL BY CANDIDATE          WEST    86***    ROTH    77***    VIAN    74***  SCHIFF    31*** MENZIES    30*** MONTELL    29***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  59
+                                                         OFFICIAL TALLY
+                                                WORKING FAMILIES LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     HARPAZ      KING      MEHIEL                                                    WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2
+ DIST  2 OF  2          1                                                                                                         1
+TOTAL  2 OF  2          1*                                                                                                        1*
+ESOPUS
+ DIST  1 OF  7
+ DIST  2 OF  7
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7
+GARDINER
+ DIST  1 OF  4
+ DIST  2 OF  4
+ DIST  3 OF  4
+ DIST  4 OF  4
+TOTAL  4 OF  4
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+HURLEY
+ DIST  1 OF  8
+ DIST  2 OF  8
+ DIST  3 OF  8
+ DIST  4 OF  8
+ DIST  5 OF  8
+ DIST  6 OF  8
+ DIST  7 OF  8
+ DIST  8 OF  8
+TOTAL  8 OF  8
+KINGSTON-T
+ DIST  1 OF  1
+TOTAL  1 OF  1
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  60
+                                                         OFFICIAL TALLY
+                                                WORKING FAMILIES LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     HARPAZ      KING      MEHIEL                                                    WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7
+ DIST  2 OF  7
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7
+MARBLETOWN
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6
+MARLBOROUGH
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6
+NEW PALTZ
+ DIST  1 OF 10
+ DIST  2 OF 10
+ DIST  3 OF 10
+ DIST  4 OF 10
+ DIST  5 OF 10
+ DIST  6 OF 10
+ DIST  7 OF 10
+ DIST  8 OF 10
+ DIST  9 OF 10
+ DIST 10 OF 10
+TOTAL 10 OF 10
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  61
+                                                         OFFICIAL TALLY
+                                                WORKING FAMILIES LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     HARPAZ      KING      MEHIEL                                                    WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5
+PLATTEKILL
+ DIST  1 OF  6          1                                1
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          1*                               1*
+ROCHESTER
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5
+ROSENDALE
+ DIST  1 OF  5
+ DIST  2 OF  5          1                                                                                                         1
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5          1*                                                                                                        1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  62
+                                                         OFFICIAL TALLY
+                                                WORKING FAMILIES LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     HARPAZ      KING      MEHIEL                                                    WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16
+ DIST  2 OF 16
+ DIST  3 OF 16
+ DIST  4 OF 16
+ DIST  5 OF 16
+ DIST  6 OF 16
+ DIST  7 OF 16
+ DIST  8 OF 16
+ DIST  9 OF 16
+ DIST 10 OF 16          1          1
+ DIST 11 OF 16
+ DIST 12 OF 16
+ DIST 13 OF 16
+ DIST 14 OF 16
+ DIST 15 OF 16          1                     1
+ DIST 16 OF 16
+TOTAL 16 OF 16          2*         1*         1*
+SHANDAKEN
+ DIST  1 OF  4
+ DIST  2 OF  4
+ DIST  3 OF  4
+ DIST  4 OF  4
+TOTAL  4 OF  4
+SHAWANGUNK
+ DIST  1 OF  6
+ DIST  2 OF  6          1                                1
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          1*                               1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  63
+                                                         OFFICIAL TALLY
+                                                WORKING FAMILIES LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     HARPAZ      KING      MEHIEL                                                    WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14
+ DIST  2 OF 14
+ DIST  3 OF 14
+ DIST  4 OF 14
+ DIST  5 OF 14
+ DIST  6 OF 14
+ DIST  7 OF 14
+ DIST  8 OF 14
+ DIST  9 OF 14
+ DIST 10 OF 14
+ DIST 11 OF 14
+ DIST 12 OF 14
+ DIST 13 OF 14
+ DIST 14 OF 14
+TOTAL 14 OF 14
+WAWARSING
+ DIST  1 OF 12
+ DIST  2 OF 12
+ DIST  3 OF 12
+ DIST  4 OF 12
+ DIST  5 OF 12
+ DIST  6 OF 12
+ DIST  7 OF 12
+ DIST  8 OF 12
+ DIST  9 OF 12
+ DIST 10 OF 12
+ DIST 11 OF 12
+ DIST 12 OF 12
+TOTAL 12 OF 12
+WOODSTOCK
+ DIST  1 OF  9
+ DIST  2 OF  9
+ DIST  3 OF  9
+ DIST  4 OF  9
+ DIST  5 OF  9
+ DIST  6 OF  9
+ DIST  7 OF  9
+ DIST  8 OF  9
+ DIST  9 OF  9
+TOTAL  9 OF  9
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  64
+                                                         OFFICIAL TALLY
+                                                WORKING FAMILIES LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     HARPAZ      KING      MEHIEL                                                    WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1
+ DIST  2 OF WARD  1
+ DIST  3 OF WARD  1
+ DIST  1 OF WARD  2
+ DIST  2 OF WARD  2
+ DIST  3 OF WARD  2
+ DIST  1 OF WARD  3
+ DIST  2 OF WARD  3
+ DIST  3 OF WARD  3
+ DIST  1 OF WARD  4
+ DIST  2 OF WARD  4
+ DIST  1 OF WARD  5
+ DIST  2 OF WARD  5
+ DIST  3 OF WARD  5
+ DIST  1 OF WARD  6
+ DIST  2 OF WARD  6
+ DIST  3 OF WARD  6     1                     1
+ DIST  1 OF WARD  7     1          1
+ DIST  2 OF WARD  7
+ DIST  3 OF WARD  7
+ DIST  1 OF WARD  8
+ DIST  2 OF WARD  8
+ DIST  3 OF WARD  8
+ DIST  1 OF WARD  9     3                                                                                                         3
+ DIST  2 OF WARD  9
+ DIST  3 OF WARD  9
+TOTAL 26 OF 26          5*         1*         1*                                                                                  3*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  65
+                                                         OFFICIAL TALLY
+                                                WORKING FAMILIES LIEUTENANT GOVERNOR
+                     VOTES
+                      CAST     HARPAZ      KING      MEHIEL                                                    WRITEIN  VOID   BLANK
+  TOWN TOTALS           6         1**        1**        2**                                                                      2**
+  CITY TOTALS           5         1**        1**                                                                                 3**
+  COUNTY TOTALS        11         2**        2**        2**                                                                      5**
+     TOTAL BY CANDIDATE        HARPAZ     2***    KING     2***  MEHIEL     2***
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  66
+                                                         OFFICIAL TALLY
+                                                    WORKING FAMILIES COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+DENNING
+ DIST  1 OF  2
+ DIST  2 OF  2          1                     1
+TOTAL  2 OF  2          1*                    1*
+ESOPUS
+ DIST  1 OF  7
+ DIST  2 OF  7
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7
+GARDINER
+ DIST  1 OF  4
+ DIST  2 OF  4
+ DIST  3 OF  4
+ DIST  4 OF  4
+TOTAL  4 OF  4
+HARDENBURGH
+ DIST  1 OF  2
+ DIST  2 OF  2
+TOTAL  2 OF  2
+HURLEY
+ DIST  1 OF  8
+ DIST  2 OF  8
+ DIST  3 OF  8
+ DIST  4 OF  8
+ DIST  5 OF  8
+ DIST  6 OF  8
+ DIST  7 OF  8
+ DIST  8 OF  8
+TOTAL  8 OF  8
+KINGSTON-T
+ DIST  1 OF  1
+TOTAL  1 OF  1
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  67
+                                                         OFFICIAL TALLY
+                                                    WORKING FAMILIES COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+LLOYD
+ DIST  1 OF  7
+ DIST  2 OF  7
+ DIST  3 OF  7
+ DIST  4 OF  7
+ DIST  5 OF  7
+ DIST  6 OF  7
+ DIST  7 OF  7
+TOTAL  7 OF  7
+MARBLETOWN
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6
+MARLBOROUGH
+ DIST  1 OF  6
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6
+NEW PALTZ
+ DIST  1 OF 10
+ DIST  2 OF 10
+ DIST  3 OF 10
+ DIST  4 OF 10
+ DIST  5 OF 10
+ DIST  6 OF 10
+ DIST  7 OF 10
+ DIST  8 OF 10
+ DIST  9 OF 10
+ DIST 10 OF 10
+TOTAL 10 OF 10
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  68
+                                                         OFFICIAL TALLY
+                                                    WORKING FAMILIES COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+OLIVE
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5
+PLATTEKILL
+ DIST  1 OF  6          1                                                                                                         1
+ DIST  2 OF  6
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          1*                                                                                                        1*
+ROCHESTER
+ DIST  1 OF  5
+ DIST  2 OF  5
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5
+ROSENDALE
+ DIST  1 OF  5
+ DIST  2 OF  5          1          1
+ DIST  3 OF  5
+ DIST  4 OF  5
+ DIST  5 OF  5
+TOTAL  5 OF  5          1*         1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  69
+                                                         OFFICIAL TALLY
+                                                    WORKING FAMILIES COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+SAUGERTIES
+ DIST  1 OF 16
+ DIST  2 OF 16
+ DIST  3 OF 16
+ DIST  4 OF 16
+ DIST  5 OF 16
+ DIST  6 OF 16
+ DIST  7 OF 16
+ DIST  8 OF 16
+ DIST  9 OF 16
+ DIST 10 OF 16          1                                                                                                         1
+ DIST 11 OF 16
+ DIST 12 OF 16
+ DIST 13 OF 16
+ DIST 14 OF 16
+ DIST 15 OF 16          1                                                                                                         1
+ DIST 16 OF 16
+TOTAL 16 OF 16          2*                                                                                                        2*
+SHANDAKEN
+ DIST  1 OF  4
+ DIST  2 OF  4
+ DIST  3 OF  4
+ DIST  4 OF  4
+TOTAL  4 OF  4
+SHAWANGUNK
+ DIST  1 OF  6
+ DIST  2 OF  6          1                                                                                                         1
+ DIST  3 OF  6
+ DIST  4 OF  6
+ DIST  5 OF  6
+ DIST  6 OF  6
+TOTAL  6 OF  6          1*                                                                                                        1*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  70
+                                                         OFFICIAL TALLY
+                                                    WORKING FAMILIES COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+ULSTER
+ DIST  1 OF 14
+ DIST  2 OF 14
+ DIST  3 OF 14
+ DIST  4 OF 14
+ DIST  5 OF 14
+ DIST  6 OF 14
+ DIST  7 OF 14
+ DIST  8 OF 14
+ DIST  9 OF 14
+ DIST 10 OF 14
+ DIST 11 OF 14
+ DIST 12 OF 14
+ DIST 13 OF 14
+ DIST 14 OF 14
+TOTAL 14 OF 14
+WAWARSING
+ DIST  1 OF 12
+ DIST  2 OF 12
+ DIST  3 OF 12
+ DIST  4 OF 12
+ DIST  5 OF 12
+ DIST  6 OF 12
+ DIST  7 OF 12
+ DIST  8 OF 12
+ DIST  9 OF 12
+ DIST 10 OF 12
+ DIST 11 OF 12
+ DIST 12 OF 12
+TOTAL 12 OF 12
+WOODSTOCK
+ DIST  1 OF  9
+ DIST  2 OF  9
+ DIST  3 OF  9
+ DIST  4 OF  9
+ DIST  5 OF  9
+ DIST  6 OF  9
+ DIST  7 OF  9
+ DIST  8 OF  9
+ DIST  9 OF  9
+TOTAL  9 OF  9
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  71
+                                                         OFFICIAL TALLY
+                                                    WORKING FAMILIES COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+KINGSTON-C
+ DIST  1 OF WARD  1
+ DIST  2 OF WARD  1
+ DIST  3 OF WARD  1
+ DIST  1 OF WARD  2
+ DIST  2 OF WARD  2
+ DIST  3 OF WARD  2
+ DIST  1 OF WARD  3
+ DIST  2 OF WARD  3
+ DIST  3 OF WARD  3
+ DIST  1 OF WARD  4
+ DIST  2 OF WARD  4
+ DIST  1 OF WARD  5
+ DIST  2 OF WARD  5
+ DIST  3 OF WARD  5
+ DIST  1 OF WARD  6
+ DIST  2 OF WARD  6
+ DIST  3 OF WARD  6     1                                                                                                         1
+ DIST  1 OF WARD  7     1                                                                                                         1
+ DIST  2 OF WARD  7
+ DIST  3 OF WARD  7
+ DIST  1 OF WARD  8
+ DIST  2 OF WARD  8
+ DIST  3 OF WARD  8
+ DIST  1 OF WARD  9     3                     1                                                                                   2
+ DIST  2 OF WARD  9
+ DIST  3 OF WARD  9
+TOTAL 26 OF 26          5*                    1*                                                                                  4*
+                                              ULSTER COUNTY ELECTION RETURNS FOR 2002                                       PAGE  72
+                                                         OFFICIAL TALLY
+                                                    WORKING FAMILIES COMPTROLLER
+                     VOTES
+                      CAST     HEVESI     MULROW                                                               WRITEIN  VOID   BLANK
+  TOWN TOTALS           6         1**        1**                                                                                 4**
+  CITY TOTALS           5                    1**                                                                                 4**
+  COUNTY TOTALS        11         1**        2**                                                                                 8**
+     TOTAL BY CANDIDATE        MULROW     2***  HEVESI     1***
+
+
+
+
+</pre></font>
+
+<p align="center"><a href="index.html"><font size="-1">Return to Primary Home
+Page<br>
+<br>
+</font></a>
+<hr>
+<center><font size="-1">© 2002 Ulster County Information Services</font><br>
+<i><font size="-1">Implemented by Ulster County Information Services</font></i></center>
+<p>
+<center>
+<br>Implemented by Ulster County Information Services<i><font size=-1>Implemented by Ulster County Information Services</font></i>
+<!-- Revision History
+
+10-07-97 jps skeleton for detail of election results
+
+-->
+</p>
