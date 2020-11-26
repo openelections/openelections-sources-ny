@@ -1,0 +1,583 @@
+Results per ED
+
+
+
+                                                Results per ED
+            Greene June 23 2020 Pres Primary and Primary
+                                                         Official
+
+
+            PRESIDENT OF THE UNITED STATES (Vote for 1)
+
+
+                                      Pete Buttigieg -       Amy Klobuchar -       Joseph R. Biden -        Tulsi Gabbard -       Bernie Sanders -        Michael R. Bloomberg -       Tom Steyer -       Michael Bennet -       Elizabeth Warren -       Andrew Yang -       Deval Patrick -
+             ED
+                                      DEM1                   DEM2                  DEM3                     DEM4                  DEM5                    DEM6                         DEM7               DEM8                   DEM9                     DEM10               DEM11
+             Town of Ashland 1PP                         0                     0                       12                     0                      4                             0                  0                      0                        1                   0                     0
+             Town of Athens 1PP                          1                     1                       24                     0                      6                             0                  0                      0                        1                   2                     0
+             Town of Athens 2PP                          0                     0                        6                     0                      3                             0                  0                      0                        1                   0                     0
+             Town of Athens 3PP                          1                     0                       28                     0                      21                            0                  0                      0                        2                   2                     0
+             Town of Athens 4PP                          0                     0                        5                     1                      4                             0                  0                      0                        2                   0                     0
+             Town of Cairo 1PP                           1                     0                        4                     0                      0                             0                  0                      0                        0                   1                     0
+             Town of Cairo 2PP                           1                     0                        3                     0                      0                             0                  0                      0                        2                   0                     1
+             Town of Cairo 3PP                           0                     0                       3                      0                      5                             0                  0                      0                        2                   0                     0
+             Town of Cairo 4PP                           0                     0                       10                     0                      2                             0                  0                      0                        0                   0                     0
+             Town of Cairo 5PP                           0                     0                       5                      0                      4                             0                  0                      0                        0                   0                     0
+             Town of Cairo 6PP                           0                     0                       8                      0                      2                             0                  0                      0                        1                   0                     0
+             Town of Cairo 7PP                           0                     0                       13                     0                      2                             0                  0                      0                        0                   0                     0
+             Town of Catskill 1PP                        0                     0                       18                     0                      5                             1                  0                      0                        1                   0                     0
+             Town of Catskill 2PP                        1                     0                       8                      0                      4                             0                  0                      0                        3                   0                     0
+             Town of Catskill 3PP                        0                     0                       10                     0                      23                            0                  0                      0                        2                   0                     0
+             Town of Catskill 4PP                        0                     0                       12                     0                      3                             0                  0                      0                        1                   1                     0
+             Town of Catskill 5PP                        0                     0                       12                     0                      1                             0                  0                      0                        1                   0                     0
+             Town of Catskill 6PP                        0                     0                       8                      0                      5                             0                  0                      0                        0                   0                     0
+             Town of Catskill 7PP                        0                     0                       16                     0                      4                             0                  0                      0                        0                   0                     0
+             Town of Catskill 8PP                        0                     0                       2                      0                      0                             0                  0                      0                        0                   0                     0
+             Town of Catskill 9PP                        0                     0                       17                     0                      8                             0                  0                      0                        1                   0                     0
+             Town of Catskill 10PP                       0                     0                       35                     0                      21                            1                  0                      0                        2                   0                     0
+             Town of Catskill 11PP                       0                     2                       12                     0                      7                             0                  0                      0                        2                   0                     0
+             Town of Catskill 12PP                       0                     0                       3                      0                      2                             0                  0                      0                        0                   0                     0
+             Town of Catskill 13PP                       0                     0                       7                      0                      5                             0                  0                      0                        0                   0                     0
+             Town of Catskill 14PP                       0                     0                       9                      0                      3                             0                  0                      0                        0                   0                     0
+             Town of Coxsackie 1PP                       0                     0                       21                     0                      8                             0                  0                      0                        0                   1                     0
+             Town of Coxsackie 2PP                       0                     0                       10                     1                      6                             1                  0                      0                        2                   1                     0
+             Town of Coxsackie 3PP                       0                     0                       5                      0                      2                             0                  0                      0                        0                   0                     0
+             Town of Coxsackie 4PP                       1                     1                       8                      0                      4                             0                  0                      0                        2                   0                     0
+             Town of Coxsackie 5PP                       1                     0                       13                     0                       0                            0                  0                      0                        1                   0                     0
+             Town of Coxsackie 6PP                       2                     0                       13                     0                       1                            0                  0                      0                        0                   0                     0
+             Town of Durham 1PP                          0                     0                        9                     0                      5                             0                  0                      0                        0                   0                     0
+             Town of Durham 2PP                          0                     0                       16                     0                      3                             0                  0                      0                        1                   1                     0
+             Town of Greenville 1PP                      1                     1                       13                     0                      5                             0                  0                      0                        0                   0                     0
+             Town of Greenville 2PP                      0                     0                        6                     0                      3                             0                  0                      0                        0                   0                     0
+             Town of Greenville 3PP                      0                     1                        6                     0                      2                             0                  0                      0                        0                   1                     0
+             Town of Halcott 1PP                         1                     0                        4                     0                      3                             0                  0                      0                        2                   0                     0
+             Town of Hunter 1PP                          0                     0                       19                     0                      10                            0                  0                      0                        0                   0                     0
+             Town of Hunter 2PP                          0                     0                       16                     2                      9                             0                  0                      0                        1                   0                     1
+             Town of Hunter 3PP                          1                     0                       15                     0                      1                             1                  0                      0                        2                   0                     0
+             Town of Hunter 4PP                          0                     0                        3                     0                      1                             0                  0                      0                        0                   1                     0
+             Town of Jewett 1PP                          1                     1                       15                     0                      8                             1                  0                      0                        3                   1                     0
+             Town of Lexington 1PP                       0                     1                       16                     0                      0                             0                  0                      0                        2                   0                     0
+             Town of Lexington 2PP                       1                     0                       12                     0                      1                             0                  0                      0                        1                   0                     0
+             Town of New Baltimore
+Results per ED
+                                       0   2   19   0   3    0   0   0   4   0   0
+             1PP
+             Town of New Baltimore
+                                       0   0   6    0   0    0   0   0   0   1   0
+             2PP
+             Town of New Baltimore
+                                       0   0   11   0   1    0   1   0   1   0   0
+             3PP
+             Town of New Baltimore
+                                       0   0   4    0   0    0   0   0   0   0   0
+             4PP
+             Town of Prattsville 1PP   0   0   6    0   2    0   1   0   0   0   0
+             Town of Windham 1PP       1   0   20   0   3    0   0   0   2   0   0
+             Town of Windham 2PP       0   0   13   0   2    0   1   0   0   1   0
+             ASH ABS 1PP               0   0   14   0   2    0   0   0   1   1   0
+             ATH ABS 1PP               1   0   35   0   12   0   0   0   2   0   0
+             ATH ABS 2PP               0   0   13   0   7    0   0   0   2   0   0
+             ATH ABS 3PP               3   0   71   0   18   0   3   0   1   2   0
+             ATH ABS 4PP               2   0   16   0   7    0   0   0   2   0   0
+             CAR ABS 1PP               0   0   20   1   2    0   0   0   2   0   0
+             CAR ABS 2PP               1   0   21   0   6    0   0   0   1   1   0
+             CAR ABS 3PP               1   0   7    0   0    0   0   0   0   0   0
+             CAR ABS 4PP               1   1   17   0   5    0   0   0   5   0   0
+             CAR ABS 5PP               0   0   9    0   0    0   0   0   0   0   0
+             CAR ABS 6PP               1   0   34   0   5    0   1   0   1   0   0
+             CAR ABS 7PP               2   0   18   0   2    0   0   0   0   2   0
+             CAT ABS 1PP               1   0   51   0   16   1   0   0   2   0   0
+             CAT ABS 2PP               0   0   30   0   15   0   0   0   3   0   0
+             CAT ABS 3PP               0   1   16   0   17   0   0   0   5   1   0
+             CAT ABS 4PP               3   0   10   0   14   0   0   0   0   0   1
+             CAT ABS 5PP               1   0   26   0   4    0   0   0   0   0   0
+             CAT ABS 6PP               0   0   13   0   5    0   0   0   2   0   0
+             CAT ABS 7PP               1   0   21   0   5    0   0   0   1   0   0
+             CAT ABS 8PP               0   0   6    0   2    0   0   0   0   1   0
+             CAT ABS 9PP               1   0   44   0   16   0   0   0   3   0   0
+             CAT ABS 10PP              0   0   39   0   18   0   0   0   5   0   0
+             CAT ABS 11PP              0   0   19   0   9    0   0   0   1   1   0
+             CAT ABS 12PP              0   0   6    0   3    0   0   0   0   1   0
+             CAT ABS 13PP              0   0   28   0   3    1   0   0   3   0   0
+             CAT ABS 14PP              0   0   20   0   1    1   0   0   1   0   0
+             COX ABS 1PP               0   0   53   0   10   0   0   0   0   1   0
+             COX ABS 2PP               0   1   20   0   9    0   0   0   1   0   0
+             COX ABS 3PP               0   0   6    0   1    0   0   0   1   0   0
+             COX ABS 4PP               0   0   22   0   8    0   0   0   3   0   0
+             COX ABS 5PP               0   0   8    1   5    0   0   0   3   0   0
+             COX ABS 6PP               0   1   23   0   7    0   0   0   0   1   0
+             DUR ABS 1PP               1   0   37   0   14   0   0   0   1   0   1
+             DUR ABS 2PP               1   0   38   0   13   0   0   0   6   0   0
+             GVL ABS 1PP               2   0   38   0   8    0   0   0   2   1   0
+             GVL ABS 2PP               1   0   18   0   11   0   0   0   0   0   0
+             GVL ABS 3PP               0   0   31   0   14   0   0   0   5   0   0
+             HAL ABS 1PP               0   1   16   0   4    0   0   0   2   0   0
+             HUN ABS 1PP               0   0   34   0   8    0   0   0   3   2   0
+             HUN ABS 2PP               0   0   38   0   6    2   0   0   1   2   0
+             HUN ABS 3PP               1   0   24   0   2    0   0   0   0   0   0
+             HUN ABS 4PP               1   1   20   0   6    0   0   0   2   0   0
+             JWT ABS 1PP               0   0   43   0   8    0   0   0   4   1   0
+             LEX ABS 1PP               0   0   20   2   4    0   0   0   1   0   0
+             LEX ABS 2PP               0   1   15   0   3    0   0   0   2   0   0
+             NB ABS 1PP                0   0   32   1   6    0   0   0   4   0   0
+             NB ABS 2PP                1   0   9    0   4    0   0   0   2   0   0
+             NB ABS 3PP                0   1   32   0   8    0   0   0   1   1   1
+             NB ABS 4PP                0   0   8    0   4    0   0   0   0   1   0
+             PRT ABS 1PP               2   0   10   0   6    0   0   0   0   0   0
+             WIN ABS 1PP               2   2   42   0   8    1   0   0   2   0   0
+Results per ED
+             WIN ABS 2PP                                       0                    0                       14                 0                          2                                 0                0                     0                       0                          0                      0
+             Total                                        46                       20                     1,844                9                     600                                11                   7                     0                     138                          34                     5
+
+
+            DELEGATES TO NATIONAL CONVENTION 19th Congressional District (Vote for 6)
+
+
+                                    Donna            Melissa                                      Daniel                    Doreen             Jennifer                                           Gregory          Jane              Mark                                                    MacGuire   Koichiro
+                         Jill G.             Cari              Keiko   Wally   Michael   Kelleigh          Roger                       Rebecca            Cynthia   Aidan S.    Frank L.    Jeff             Brian          Elaine           Erin E.   Shaye   Beau       Frederick   Lanny
+                                    J.               J.                                           J.             Tara L.    P.                 J.                                                 V.               A.                A.                                                      M.         Y.
+                         Fieldstein          Gardner           Sono    Rubin   P. Hein   McKenzie          Green                       Rojer              Welch     O'Connor    Cardinale   Cohen            Welch          Sosnicki         Stamper   Chaim   Loendorf   E. Kowal    Walter
+             ED                     Schick           Servant                                      Torres         Langworthy Davis              Fuentes                                            Pasquale         Eckert            Vian                                                    Benton     Kleps
+                         (F) -               (F) -             (F) -   (M) -   (M) -     (F) -             (M) -                       (F) -              (F) -     Jr. (M) -   (M) -       (M) -            (M) -          (F) -            (F) -     (F) -   (M) -      (M) -       (M) -
+                                    (F) -            (F) -                                        (M) -          (F) - DEM1 (F) -              (F) -                                              (M) -            (F) -             (M) -                                                   (M) -      (M) -
+                         DEM1                DEM5              DEM10   DEM1    DEM3      DEM5              DEM10                       DEM5               DEM10     DEM1        DEM3        DEM5             DEM10          DEM3             DEM9      DEM10   DEM1       DEM3        DEM5
+                                    DEM3             DEM9                                         DEM9                      DEM3               DEM9                                               DEM9             DEM1              DEM5                                                    DEM9       DEM10
+             Town of
+             Ashland             3      8          4      3        3      1         4           5     2           0       2    10            4       4         2           5           4         2      1        0     3          9     2         0        1         1           5          2      0             1
+             1PP
+             Town of
+             Athens              7     11          7      5        2      2         9           9     1           0       3    15            6       4         2          16           8        8       0        1     4         13     4         1        2         2           7         6       3             1
+             1PP
+             Town of
+             Athens              2      2          1      3        2      0         1           2     1           0       2        5         2       4         1           4           2        1       2        0     0          1     1         1        1         1           1         1       1             0
+             2PP
+             Town of
+             Athens             10     11         15      8        7      3        14          18     5           2       4    22           16       8         2          15          11        10      4        5     9         18     8         6        1         2          12         9       5             1
+             3PP
+             Town of
+             Athens              1      3          5      5        0      0         3           4     1           1       2        5         4       4         0           4           2        2       1        0     2          2     2         1        0         0           3         3       0             0
+             4PP
+             Town of
+                                 1      4          1      0        1      0         4           0     0           1       1        5         0       0         1           1           3        0       0        1     1          3     0         0        1         1           2         0       0             1
+             Cairo 1PP
+             Town of
+                                 1      0          1      5        0      0         1           0     2           1       2        4         1       3         1           2           0        0       2        0     0          2     1         2        0         0           0         0       3             1
+             Cairo 2PP
+             Town of
+                                 2      2          3      2        0      0         3           3     1           0       1        4         3       4         1           7           3        3       2        1     2          2     2         2        0         0           1         2       1             0
+             Cairo 3PP
+             Town of
+                                 1      4          2      0        0      0         4           2     1           0       1        6         4       1         1           2           4         2      0        0     2          4     2         1        0         1           4          2      0             0
+             Cairo 4PP
+             Town of
+                                 4      2          3      0        0      1         3           4     0           0       4        4         3       0         0           7           1         5      1        0     2          3     2         0        0         1           0          2      0             0
+             Cairo 5PP
+             Town of
+                                 2      5          1      1        0      3         4           1     1           0       2        5         2       2         1           6           3         2      0        0     1          4     2         0        0         3           2          3      0             1
+             Cairo 6PP
+             Town of
+                                 2      7          5      1        1      1         6           5     2           0       0        5         5       1         1           4           5        3       2        0     0          5     4         0        0         0           5         4       2             0
+             Cairo 7PP
+             Town of
+             Catskill            3     11          7      1        0      0        10           7     1           0       1    15            7       3         2           8           8        5       1        1     2         11     5         1        1         2           8         5       0             1
+             1PP
+             Town of
+             Catskill            8      3          2      3        0      1         3           7     1           0       2        9         5       3         1           9           3        2       0        0     4          5     2         4        1         4           2         3       0             0
+             2PP
+             Town of
+             Catskill            3      7         19      6        4      1         2          15     5           0       1        8        19       7         1           9           2        12      2        0     0          5    15         1        5         1           3         13      2             1
+             3PP
+             Town of
+             Catskill            3      8          2      6        1      0         2           3     0           0       3        7         5       7         3           7           2        1       0        0     2          8     3         0        2         1           2         1       0             0
+             4PP
+             Town of
+             Catskill            2      5          3      0        2      1         4           4     1           0       1    12            4       3         1           6           4        5       1        1     0          6     3         0        1         0           4         1       0             0
+             5PP
+             Town of
+             Catskill            5      5          4      0        1      0         5           5     0           0       4        6         4       1         0           2           4        2       0        0     3          6     2         0        0         2           4         3       0             1
+             6PP
+             Town of
+             Catskill            3     11          4      3        0      0        11           5     2           0       0    14            3       4         0           4          10        1       2        0     2         11     3         2        0         0           8         2       1             1
+             7PP
+             Town of
+             Catskill            0      1          0      0        0      0         2           0     0           0       0        1         1       0         0           1           2        0       0        0     0          2     0         0        0         0           2         0       0             0
+             8PP
+             Town of
+             Catskill            4      8          4      4        3      2         9          11     3           1       1    12            5       7         1           6           8         6      6        0     4         12     5         3        1         2          10          7      3             1
+             9PP
+             Town of
+             Catskill            8     15         13      6        4      2        18          15     6           0       3    32           16       7         2          25          11        13      4        1     7         13    11         2        3         2           9         13      4             1
+             10PP
+             Town of
+Results per ED
+             Catskill     3     8   7   2   1   0    6    8   0   0   0   14   7   4   0   12   4    6   0   0   2    6   6   0   0   2    5   8   0   0
+             11PP
+             Town of
+             Catskill     0     0   2   0   0   0    0    2   0   0   0    2   2   0   0    2   0    2   0   0   0    0   2   0   0   0    0   2   0   0
+             12PP
+             Town of
+             Catskill     3     3   4   0   1   0    3    4   0   2   0    6   6   3   1    3   3    6   0   0   2    2   6   0   1   1    4   5   0   1
+             13PP
+             Town of
+             Catskill     1     7   4   0   1   0    6   5    0   0   1    8   4   1   0    2   4    5   0   0   1    5   3   0   1   1    3   4   0   0
+             14PP
+             Town of
+             Coxsackie    4    12   7   5   2   2   13   6    0   1   4   19   5   5   3   13   13   6   0   1   5   12   6   2   1   2   10   4   0   1
+             1PP
+             Town of
+             Coxsackie    3     3   7   2   2   0   0    8    4   2   0    8   5   5   2   10   1    6   3   1   3    4   4   4   0   2   0    5   4   3
+             2PP
+             Town of
+             Coxsackie    3     2   4   0   0   0   2    3    0   0   0    4   4   2   0   1    1    4   0   0   0    3   2   0   0   1   2    3   0   0
+             3PP
+             Town of
+             Coxsackie    5     5   5   4   1   1   3    3    4   0   0    5   2   7   0   4    3    3   2   0   3    7   3   3   2   2   4    2   2   1
+             4PP
+             Town of
+             Coxsackie    5    6    3   2   1   0   5    3    0   1   2   7    3   5   2   3    5    3   2   0   1   8    1   1   2   1   5    2   1   0
+             5PP
+             Town of
+             Coxsackie    4    7    2   3   1   1   3    4    0   0   2   8    3   4   1   8    3    2   1   1   5   4    1   1   1   4   3    3   0   0
+             6PP
+             Town of
+             Durham       2    3    3   0   2   0   4    3    3   1   2   6    2   2   1   10   3    1   0   1   2   3    1   0   1   4   2    1   1   1
+             1PP
+             Town of
+             Durham       3    5    6   3   1   3   4    5    1   1   1   10   5   7   2   11   4    3   2   2   2   6    5   1   2   1   4    1   2   1
+             2PP
+             Town of
+             Greenville   2    7    5   2   0   1   7    5    1   2   2   7    4   2   2   9    6    3   1   4   3   6    4   0   0   3   5    4   0   0
+             1PP
+             Town of
+             Greenville   4     2   0   0   3   0    2    1   0   0   1    5   2   2   0    1   2    2   0   0   0    3   1   1   1   0    2   0   0   1
+             2PP
+             Town of
+             Greenville   2     4   1   0   2   0    4    0   2   0   0    5   0   1   1    5   4    1   0   2   2    4   1   0   0   0    3   0   1   1
+             3PP
+             Town of
+             Halcott      0     2   3   4   1   0    0   6    1   0   0    0   4   3   2    2   1    2   1   0   2    0   2   3   0   2    0   2   1   0
+             1PP
+             Town of
+             Hunter       11   11   7   0   0   1   11   10   1   0   2   13   9   5   0   10   7    7   0   0   3   11   4   2   0   5    5   5   1   0
+             1PP
+             Town of
+             Hunter       2     9   7   0   4   4   7    6    2   1   1    9   5   4   1   5    10   8   2   2   2    9   6   1   1   1   9    6   2   0
+             2PP
+             Town of
+             Hunter       3     8   4   1   0   2   8    5    0   0   1   16   2   1   1   10   9    2   0   0   4   10   1   0   1   3   6    3   0   0
+             3PP
+             Town of
+             Hunter       1     2   0   1   1   1   2    0    1   1   1    1   0   1   1   2    1    0   0   1   1    1   0   0   1   1   2    0   0   1
+             4PP
+             Town of
+             Jewett       5    9    9   3   5   2   8    10   4   1   2   12   8   7   2   7    8    7   4   3   7   9    5   5   3   2   5    7   2   2
+             1PP
+             Town of
+             Lexington    1    12   3   3   0   0   12   4    1   0   1   12   3   5   2   9    7    3   1   0   0   13   2   1   0   0   10   2   0   0
+             1PP
+             Town of
+             Lexington    3    8    4   3   1   1   6    4    2   0   2   8    5   3   0   2    6    1   0   0   2   10   0   0   0   1   6    0   0   1
+             2PP
+             Town of
+             New
+                          7    10   4   1   4   2   9    5    1   0   4   14   3   3   1   9    8    1   1   0   2   10   1   1   0   1   8    1   0   3
+             Baltimore
+Results per ED
+             1PP
+             Town of
+             New
+                            2    4    0   0   0   0    5    0   1   0   1    5    1    1   1    2    4    0   0   0   2    4    0   1   1   0    4    2   0   0
+             Baltimore
+             2PP
+             Town of
+             New
+                            0    9    2   1   1   0   11    3   0   0   0   11    1    3   0    4    8    1   0   1   2   11    2   1   0   1    8    2   0   1
+             Baltimore
+             3PP
+             Town of
+             New
+                            0    2    1   0   0   0    3    0   0   0   0    3    0    0   0    1    2    0   0   0   0    2    1   0   0   1    2    0   0   0
+             Baltimore
+             4PP
+             Town of
+             Prattsville    4    0    3   0   1   1    2    3   1   0   0    3    2    0   2    5    0    2   2   0   1    2    2   2   1   2    0    2   1   0
+             1PP
+             Town of
+             Windham       5    12   3    2   4   1    9   6    4   0   1   15   2    5    0   10   10   5    1   1   3   11   3    1   1   4   10   2    1   0
+             1PP
+             Town of
+             Windham       2     8   5    2   0   1    7   4    3   1   0   12   6    1    0   7     7   3    2   0   1    9   4    1   2   2    5   4    2   0
+             2PP
+             ASH ABS
+                           2    10   6    1   4   0    8   6    2   1   0   10   6    3    2   5    7    3    0   1   1   9    3    0   2   2   8    3    0   3
+             1PP
+             ATH ABS
+                           4    25   13   7   4   1   19   14   4   0   1   26   13   10   0   11   19   13   3   0   2   24   14   6   0   1   19   13   3   2
+             1PP
+             ATH ABS
+                           0    8    5    3   0   0   4    7    1   0   2   12   5    2    0   6    6    4    1   0   0   9    4    2   1   4   4    4    1   1
+             2PP
+             ATH ABS
+                           11   43   24   4   8   3   40   21   4   2   8   53   21   9    4   20   46   23   2   1   7   45   18   6   2   2   46   17   3   4
+             3PP
+             ATH ABS
+                           2    9    7    2   2   1   9    7    1   0   1   11   8    4    1   5    9    5    3   1   2   12   5    1   2   1   8    6    1   0
+             4PP
+             CAR ABS
+                           2    14   5    3   1   0   12   5    3   1   1   18   3    4    1   8    10   2    1   0   1   11   3    3   0   2   10   4    1   0
+             1PP
+             CAR ABS
+                           3    16   6    3   1   1   13    9   1   1   1   20    5    3   3   12   12    5   0   0   1   15    2   1   2   3   13    6   0   0
+             2PP
+             CAR ABS
+                            1    5    2   0   2   1    5    0   0   0   0    6    0    0   0    2    5    2   0   0   0    5    0   0   1   0    5    0   0   0
+             3PP
+             CAR ABS
+                            0   11    9   3   0   0   14    7   2   0   3   11    6    4   0    8    9    5   2   0   2   13    5   4   0   0   14    5   2   0
+             4PP
+             CAR ABS
+                            1    5    2   0   0   0    4   1    0   0   0    6   1    1    0   1     4    0   1   0   0    5    2   1   0   0    4    0   0   0
+             5PP
+             CAR ABS
+                           4    25   11   3   3   0   22   4    4   0   1   24   5    3    0   15   16   5    1   0   2   19   6    4   1   5   14   3    2   0
+             6PP
+             CAR ABS
+                           7    12   4    3   2   4   10   5    1   2   2   15   3    1    2   14    9   3    0   0   4   10   1    1   1   1    9   3    0   0
+             7PP
+             CAT ABS
+                           5    31   17   4   5   0   28   15   6   2   4   45   16   13   3   24   25   13   2   0   6   29   17   2   0   5   25   14   0   3
+             1PP
+             CAT ABS
+                           2    19   13   4   2   1   17   11   3   0   1   26   12   5    0   12   19   10   1   1   3   18   11   6   0   3   16   10   1   2
+             2PP
+             CAT ABS
+                           1     9   16   4   5   0   10   17   2   1   0   18   16   9    2   5     8   17   3   0   0   9    17   3   2   1   7    17   2   2
+             3PP
+             CAT ABS
+                           3    10   14   0   1   2   8    12   2   0   3   14   11   1    0   7    7    13   0   1   2   8    15   0   1   5   9    13   0   1
+             4PP
+             CAT ABS
+                           3    14   4    4   1   1   15   2    1   1   2   19   2    5    0   8    15   7    1   1   3   13   1    4   1   1   12   2    0   2
+             5PP
+             CAT ABS
+                           1    8    8    1   0   0   7    6    3   0   2   11   5    5    0   5    6    5    1   1   3   7    4    1   1   1   6    3    1   0
+             6PP
+             CAT ABS
+                           4    11   2    2   2   1   10   6    5   0   2   12   5    8    2   8    12   4    1   1   1   11    4   2   1   1   11    3   3   2
+             7PP
+             CAT ABS
+                            0    4    1   0   1   0    4    1   0   2   0    4    2    0   1    0    4    2   0   1   0    4    1   1   2   0    4    2   0   1
+             8PP
+             CAT ABS
+                            5   31   17   5   4   3   29   15   2   1   3   42   16    9   1   16   31   13   2   0   3   27   15   5   1   3   24   18   3   0
+             9PP
+             CAT ABS
+                            1   27   19   7   4   0   31   22   6   1   0   38   20    9   1   20   25   18   4   0   0   25   21   5   1   5   22   18   3   0
+             10PP
+             CAT ABS
+                            0   13    8   5   5   0   10    5   3   0   0   17    4    5   1    3   11    6   1   1   1   12    3   2   0   0   10    4   2   0
+             11PP
+             CAT ABS
+                           1     4   2    0   0   0    4   1    0   0   0    4   1    1    0   1     4   2    0   2   0    5   1    0   1   1    4    1   0   0
+Results per ED
+             12PP
+             CAT ABS
+                              3     20        7      4         4   0      15           9    4    1     1      23     5     5     1    11    15     4     1    1     1      19     4     3     0     3    16     2     2    0
+             13PP
+             CAT ABS
+                              0     16        3      1         3   0      14           1    0    0     1      18     4     4     0     5    14     2     0    1     1      16     1     5     0     2    14     1     0    0
+             14PP
+             COX ABS
+                              7     32       11      4         4   1      26       14       4    2     6      36    13     9     1    12    27    14     4    0     6      29     9     6     2     6    28     9     2    0
+             1PP
+             COX ABS
+                              2     13        7      0         5   0      12           7    4    1     0      13    10     3     0     7    10     8     1    0     1      14     9     0     2     1    11     7     0    3
+             2PP
+             COX ABS
+                              1      4        0      1         0   0       4           1    2    0     0       3     0     2     0     1     4     0     1    0     1       4     0     2     0     0     4     0     1    0
+             3PP
+             COX ABS
+                              2     17        8      2         1   1      15           7    2    1     1      18     6     5     0     4    16     7     2    1     3      17     7     2     1     0    14     6     2    0
+             4PP
+             COX ABS
+                              2      4        5      4         0   0       4           6    3    0     2       5     5     6     1     0     4     4     3    0     1       5     4     5     0     0     3     4     3    0
+             5PP
+             COX ABS
+                              4      9       11      3         3   1      10       11       5    0     4      11     8     5     0     8    12     7     1    3     2       7     6     3     1     2     9     8     0    2
+             6PP
+             DUR ABS
+                              9     25        5      8         4   3      21       10       3    2     5      34     9     9     0    25    21     8     0    0     6      21     7     5     1    10    15     5     1    2
+             1PP
+             DUR ABS
+                              8     25       14      9         4   5      20       13       5    0     5      27    16    11     0    36    18    11     4    1     5      19     8     6     1    11    13     9     4    1
+             2PP
+             GVL ABS
+                              6     22        8      2         4   3      21           9    3    0    10      28    10     8     3    17    19     6     1    2     9      25     5     3     1     5    18     6     3    0
+             1PP
+             GVL ABS
+                              2     12        8      1         2   1      15       11       3    0     1      15     8     2     1    10    13     6     0    0     3      12     9     4     0     3    12     8     0    2
+             2PP
+             GVL ABS
+                              3     23       12      7         0   1      19       13       4    0     1      25    13    11     3    18    15    14     6    2     1      23    13     9     1     2    17    10     6     0
+             3PP
+             HAL ABS
+                              1     13        5      3         3   0      13           4    2    0     0      14     7     5     1     4    12     5     2    0     0      13     4     3     1     0    12     4     2    0
+             1PP
+             HUN ABS
+                              7     22        5      7         5   2      20           8    3    3     5      29     9     3     3    10    22     7     2    4     2      23     5     4     4     2    20     6     4    2
+             1PP
+             HUN ABS
+                              4     23        9      4         4   2      26       12       1    2     3      28    10     4     6    16    21     5     1    3     4      24     5     3     3     6    19     8     0    2
+             2PP
+             HUN ABS
+                              3     14        3      3         0   1      15           6    3    0     3      16     5     3     2     7    14     4     1    1     2      14     5     2     1     1    11     4     1    0
+             3PP
+             HUN ABS
+                              3     15        5      4         1   1      16           6    4    0     1      17     6     3     0     6    15     4     1    0     2      15     5     2     0     3    14     5     2    0
+             4PP
+             JWT ABS
+                              2     30        8      9         1   2      30           6    8    1     1      35     6     9     1    11    22     7     5    1     3      30     5     9     3     0    27     6     7    0
+             1PP
+             LEX ABS
+                              2     15        7      2         0   0      12           7    2    0     2      14     5     3     1     4    10     4     3    1     1      10     5     1     0     0     9     5     2    0
+             1PP
+             LEX ABS
+                              3     12        4      4         1   0      10           4    3    0     2      14     3     5     1     2    10     2     3    1     1      13     2     3     0     0    11     2     3    0
+             2PP
+             NB ABS
+                              2     24        6      8         3   0      20       10       6    0     4      22     7    11     1     7    18     6     6    0     2      25     5     7     1     1    18     5     6    0
+             1PP
+             NB ABS
+                              1     2         4      3         0   1       4           4    4    1     0       4     7     3     0     3     2     4     3    0     2       1     3     3     1     1     1     6     2    1
+             2PP
+             NB ABS
+                              4     22        9      6         6   1      15       13       2    1     5      25    10    11     2    16    14     9     3    1     6      23     6     8     4     4    11     8     1    2
+             3PP
+             NB ABS
+                              0     6         3      0         4   0       5           2    0    2     2       5     3     1     2     0     5     2     0    2     0       6     2     1     2     0     4     2     0    4
+             4PP
+             PRT ABS
+                              2      6        6      1         3   0       3           9    0    0     2       6     9     5     1     9     4     3     0    2     1       5     7     1     1     1     3     7     0    0
+             1PP
+             WIN ABS
+                              8     35        8      2         6   3      24       12       2    0     6      38    11     7     1    19    26     8     2    1     6      36     5     2     2     6    25     8     1    2
+             1PP
+             WIN ABS
+                              1      5        3      0         1   0       5           2    0    0     0       9     2     1     1     9     3     3     0    0     0       5     2     1     1     1     5     2     0    0
+             2PP
+             Total          320 1,143       620    276     200     90   1,031     667      211   52   181   1,448   617   437   109   822   949   524   142   71   229   1,129   479   222   100   194   894   486   129   76
+
+
+            REPRESENTATIVE IN CONGRESS 19th District - Republican (Vote for 1)
+
+
+             ED                          Ola Hawatmeh - REP Kyle Van De Water - REP Write-in
+             Town of Ashland 1PRI                        14                      18         0
+             Town of Athens 1PRI                           6                     11         0
+             Town of Athens 2 PRI                          9                     13         0
+             Town of Athens 3PRI                         12                      12         0
+             Town of Athens 4PRI                           7                       6        0
+Results per ED
+             Town of Cairo 1PRI           11   12   0
+             Town of Cairo 2PRI           11   14   0
+             Town of Cairo 3PRI           25   6    0
+             Town of Cairo 4PRI           18   13   0
+             Town of Cairo 5PRI           5    7    0
+             Town of Cairo 6PRI           4    13   0
+             Town of Cairo 7PRI           7    4    0
+             Town of Catskill 1PRI        6    5    0
+             Town of Catskil 2PRI         5    5    0
+             Town of Catskil 3PRI         3    6    0
+             Town of Catskil 4PRI         0    2    0
+             Town of Catskil 5PRI         10   14   0
+             Town of Catskil 6PRI         10   10   1
+             Town of Catskil 7PRI         15   9    0
+             Town of Catskil 8PRI         0    2    0
+             Town of Catskil 9PRI         14   13   0
+             Town of Catskil 10PRI        23   17   0
+             Town of Catskil 11PRI        17   10   0
+             Town of Catskil 12PRI        2    3    0
+             Town of Catskil 13PRI        5    7    0
+             Town of Catskil 14PRI        7    5    0
+             Town of Coxsackie 1PRI       12   18   0
+             Town of Coxsackie 2PRI       8    21   0
+             Town of Coxsackie 3PRI       2    6    0
+             Town of Coxsackie 4PRI       17   19   0
+             Town of Coxsackie 5PRI       4    9    0
+             Town of Coxsackie 6PRI       17   10   0
+             Town of Durham 1PRI          3    12   0
+             Town of Durham 2PRI          9    22   0
+             Town of Greenville 1PRI      9    24   0
+             Town of Greenville 2PRI      6    16   0
+             Town of Greenville 3PRI      16    9   0
+             Town of Halcott 1PRI          8   11   0
+             Town of Hunter 1PRI           6    4   0
+             Town of Hunter 2PRI           7    5   0
+             Town of Hunter 3PRI           4    5   0
+             Town of Hunter 4PRI           3    9   0
+             Town of Jewett 1PRI          10   15   0
+             Town of Lexington 1PRI        4    5   0
+             Town of Lexington 2PRI        1    5   0
+             Town of New Baltimore 1PRI    8   15   0
+             wn of New Baltimore 2PRI      8    7   0
+             wn of New Baltimore 3PRI     22   16   0
+             wn of New Baltimore 4PRI      9    9   0
+             Town of Prattsville 1PRI     10    8   0
+             Town of WIndham 1PRI          7   25   2
+             Town of WIndham 2PRI          7   19   0
+             ASH ABS 1PRI                  2   10   0
+             ATH ABS 1PRI                  2   11   0
+             ATH ABS 2PRI                  1   11   0
+             ATH ABS 3PRI                 11   18   0
+             ATH ABS 4PRI                  3   17   0
+             CAR ABS 1PRI                  5   18   0
+             CAR ABS 2PRI                  5    9   1
+             CAR ABS 3PRI                 17    5   0
+             CAR ABS 4PRI                  5   20   0
+             CAR ABS 5PRI                  2    6   0
+             CAR ABS 6PRI                 10   18   0
+             CAR ABS 7PRI                  0    4   0
+             CAT ABS 1PRI                  2   10   1
+             CAT ABS 2PRI                 9    13   0
+Results per ED
+
+             CAT ABS 3PRI     0      10    0
+             CAT ABS 4PRI     2       5    0
+             CAT ABS 5PRI    17      11    0
+             CAT ABS 6PRI     6       7    0
+             CAT ABS 7PRI     7      12    0
+             CAT ABS 8PRI     0       0    0
+             CAT ABS 9PRI     7       8    0
+             CAT ABS 10PRI    5      15    0
+             CAT ABS 11PRI    3      11    0
+             CAT ABS 12PRI    3       5    0
+             CAT ABS 13PRI    4       8    0
+             CAT ABS 14PRI    5       6    0
+             COX ABS 1PRI    13      15    0
+             COX ABS 2PRI     2       7    0
+             COX ABS 3PRI     1       8    0
+             COX ABS 4PRI    13      20    0
+             COX ABS 5PRI     5       8    0
+             COX ABS 6PRI     5      18    0
+             DUR ABS 1PRI     8      26    0
+             DUR ABS 2PRI    11      15    0
+             GVL ABS 1PRI     6      26    1
+             GVL ABS 2PRI     5      17    0
+             GVL ABS 3PRI     6       9    0
+             HAL ABS 1PRI     1       0    0
+             HUN ABS 1PRI     1       5    0
+             HUN ABS 2PRI     5       8    0
+             HUN ABS 3PRI     3      12    0
+             HUN ABS 4 PRI    1       4    0
+             JWT ABS 1PRI     6       9    0
+             LEX ABS 1PRI     2       8    0
+             LEX ABS 2PRI     0       9    0
+             NB ABS 1PRI      0       4    0
+             NB ABS 2PRI      3       8    0
+             NB ABS 3PRI      6      16    0
+             NB ABS 4PRI      4       7    0
+             PRT ABS 1PRI     5       6    1
+             WIN ABS 1PRI     3      10    0
+             WIN ABS 2PRI     2      16    0
+             Total           713   1,120   7
+
